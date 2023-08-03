@@ -59,262 +59,1735 @@
     ],
   
     "food": [
-        {
-            "id": 1,
-            "food": "Pizza Margherita",
-            "description": "A slice of pure culinary bliss! Freshly baked thin crust, tangy tomato sauce, creamy mozzarella, and aromatic basil leaves.",
-            "price": 10.99,
-            "restaurant_id": 2,
-            "image": "https://tinyurl.com/46hrusj7"
+        {          
+          "id": 1,
+          "name": "Sushi",
+          "description": "Assorted raw fish and rice rolls.",
+          "price": 1210,
+          "restaurant_id": 9,
+          "origin": "Japanese",
+          "image": "https://example.com/sushi.jpg"
         },
         {
-            "id": 2,
-            "food": "Chicken Tikka Masala",
-            "description": "Exotic flavors of India! Tender, marinated chicken tikka immersed in a luscious, spiced tomato and cream sauce.",
-            "price": 12.49,
-            "restaurant_id": 7,
-            "image": "https://tinyurl.com/hj82mrh2"
+          "id": 2,
+          "name": "Ramen",
+          "description": "Japanese noodle soup with various toppings.",
+          "price": 880,
+          "restaurant_id": 10,
+          "origin": "Japanese",
+          "image": "https://example.com/ramen.jpg"
         },
         {
-            "id": 3,
-            "food": "Steakhouse Burger",
-            "description": "Carnivore's dream come true! Juicy, flame-grilled beef patty topped with smoky bacon, melted cheese, fresh veggies, and secret sauce.",
-            "price": 8.99,
-            "restaurant_id": 4,
-            "image": "https://tinyurl.com/mtvsf9et"
+          "id": 3,
+          "name": "Tempura",
+          "description": "Deep-fried seafood and vegetables in a light batter.",
+          "price": 770,
+          "restaurant_id": 11,
+          "origin": "Japanese",
+          "image": "https://example.com/tempura.jpg"
         },
         {
-            "id": 4,
-            "food": "Sushi Combo",
-            "description": "A masterful journey through Japan! Exquisite assortment of fresh sashimi and flavorful sushi rolls. Each bite is a work of art!",
-            "price": 22.99,
-            "restaurant_id": 3,
-            "image": "https://tinyurl.com/bddcbahw"
+          "id": 4,
+          "name": "Takoyaki",
+          "description": "Octopus-filled savory balls topped with sauce and bonito flakes.",
+          "price": 620,
+          "restaurant_id": 12,
+          "origin": "Japanese",
+          "image": "https://example.com/takoyaki.jpg"
         },
         {
-            "id": 5,
-            "food": "Enchiladas",
-            "description": "A fiesta of flavors! Soft corn tortillas enveloping succulent shredded chicken, zesty enchilada sauce, and melted cheese.",
-            "price": 9.95,
-            "restaurant_id": 6,
-            "image": "https://tinyurl.com/yvw2as6c"
+          "id": 5,
+          "name": "Sashimi",
+          "description": "Fresh, thinly sliced raw fish served with soy sauce and wasabi.",
+          "price": 1350,
+          "restaurant_id": 13,
+          "origin": "Japanese",
+          "image": "https://example.com/sashimi.jpg"
         },
         {
-            "id": 6,
-            "food": "Chicken Alfredo",
-            "description": "Creamy indulgence! Tender chicken tossed with al dente fettuccine in a velvety, garlic-infused Alfredo sauce.",
-            "price": 14.75,
-            "restaurant_id": 7,
-            "image": "https://tinyurl.com/6a39s5dr"
+          "id": 6,
+          "name": "Okonomiyaki",
+          "description": "Savory Japanese pancake with various ingredients.",
+          "price": 580,
+          "restaurant_id": 14,
+          "origin": "Japanese",
+          "image": "https://example.com/okonomiyaki.jpg"
         },
         {
-            "id": 7,
-            "food": "Butter Chicken",
-            "description": "A taste of India's finest! Succulent pieces of chicken cooked in a rich, aromatic tomato and butter-based gravy.",
-            "price": 13.99,
-            "restaurant_id": 1,
-            "image": "https://tinyurl.com/hu64b9n2"
+          "id": 7,
+          "name": "Miso Soup",
+          "description": "Traditional Japanese soup with soybean paste and tofu.",
+          "price": 310,
+          "restaurant_id": 15,
+          "origin": "Japanese",
+          "image": "https://example.com/miso_soup.jpg"
         },
         {
-            "id": 8,
-            "food": "Pepperoni Pizza",
-            "description": "Classic delight! Satisfy your cravings with gooey mozzarella, zesty tomato sauce, and generous pepperoni toppings on our crispy crust.",
-            "price": 12.99,
-            "restaurant_id": 2,
-            "image": "https://tinyurl.com/rr85pcyv"
+          "id": 8,
+          "name": "Matcha Green Tea",
+          "description": "Japanese powdered green tea with a unique flavor.",
+          "price": 450,
+          "restaurant_id": 16,
+          "origin": "Japanese",
+          "image": "https://example.com/matcha_green_tea.jpg"
         },
         {
-            "id": 9,
-            "food": "Quesadillas",
-            "description": "Cheesy perfection! Flour tortillas filled with mouthwatering grilled chicken and oozy melted cheese. A Tex-Mex favorite!",
-            "price": 7.99,
-            "restaurant_id": 6,
-            "image": "https://tinyurl.com/3nh77jb6"
+          "id": 9,
+          "name": "Tacos",
+          "description": "Corn tortillas filled with various toppings like meat, beans, and salsa.",
+          "price": 1320,
+          "restaurant_id": 17,
+          "origin": "Mexico",
+          "image": "https://example.com/tacos.jpg"
         },
         {
-            "id": 10,
-            "food": "Tempura Roll",
-            "description": "Japanese delicacy! Crispy tempura shrimp and fresh veggies rolled in soft sushi rice and nori. A delightful fusion of flavors!",
-            "price": 18.50,
-            "restaurant_id": 8,
-            "image": "https://tinyurl.com/4nn2kamw"
+          "id": 10,
+          "name": "Guacamole",
+          "description": "Mashed avocados mixed with lime, onions, and cilantro.",
+          "price": 450,
+          "restaurant_id": 18,
+          "origin": "Mexico",
+          "image": "https://example.com/guacamole.jpg"
         },
         {
-            "id": 11,
-            "food": "Pad Thai",
-            "description": "Thai street food delight! Stir-fried rice noodles with succulent shrimp, tofu, crushed peanuts, and a burst of tangy flavors.",
-            "price": 11.99,
-            "restaurant_id": 5,
-            "image": "https://tinyurl.com/wds557bn"
+          "id": 11,
+          "name": "Enchiladas",
+          "description": "Corn tortillas rolled around a filling, topped with sauce and cheese.",
+          "price": 980,
+          "restaurant_id": 19,
+          "origin": "Mexico",
+          "image": "https://example.com/enchiladas.jpg"
         },
         {
-            "id": 12,
-            "food": "Grilled Shrimp",
-            "description": "Seafood heaven! Succulent shrimp seasoned and grilled to smoky perfection, served with a zesty dipping sauce.",
-            "price": 16.99,
-            "restaurant_id": 5,
-            "image": "https://tinyurl.com/5n749tre"
+          "id": 12,
+          "name": "Chiles Rellenos",
+          "description": "Stuffed poblano peppers usually with cheese and meat.",
+          "price": 840,
+          "restaurant_id": 20,
+          "origin": "Mexico",
+          "image": "https://example.com/chiles_rellenos.jpg"
         },
         {
-            "id": 13,
-            "food": "Chicken Shawarma",
-            "description": "Succulent chicken shawarma",
-            "price": 10.99,
-            "restaurant_id": 1,
-            "image": "https://tinyurl.com/mryjam8z"
-          },
-          {
-            "id": 14,
-            "food": "Greek Moussaka",
-            "description": "Classic Greek moussaka casserole",
-            "price": 13.99,
-            "restaurant_id": 6,
-            "image": "https://tinyurl.com/bdh9u76z"
-          },
-          {
-            "id": 15,
-            "food": "Spanakopita",
-            "description": "Mediterranean goodness! Flaky phyllo pastry filled with savory spinach, feta cheese, and aromatic herbs. A taste of Greece!",
-            "price": 9.25,
-            "restaurant_id": 6,
-            "image": "https://tinyurl.com/2p8t892u"
+          "id": 13,
+          "name": "Pozole",
+          "description": "Traditional soup with hominy, meat, and garnishes.",
+          "price": 880,
+          "restaurant_id": 1,
+          "origin": "Mexico",
+          "image": "https://example.com/pozole.jpg"
         },
         {
-            "id": 16,
-            "food": "Croissant",
-            "description": "French flakiness! Golden-brown, buttery layers with a soft, airy interior. The perfect companion to your morning coffee.",
-            "price": 3.75,
-            "restaurant_id": 3,
-            "image": "https://tinyurl.com/2hwu8j5b"
+          "id": 14,
+          "name": "Quesadillas",
+          "description": "Folded tortillas filled with cheese and other ingredients.",
+          "price": 640,
+          "restaurant_id": 2,
+          "origin": "Mexico",
+          "image": "https://example.com/quesadillas.jpg"
         },
         {
-            "id": 1,
-            "food": "Pizza Margherita",
-            "description": "A slice of pure culinary bliss! Freshly baked thin crust, tangy tomato sauce, creamy mozzarella, and aromatic basil leaves.",
-            "price": 10.99,
-            "restaurant_id": 2,
-            "image": "https://tinyurl.com/46hrusj7"
+          "id": 15,
+          "name": "Churros",
+          "description": "Fried dough pastry coated in sugar, often served with chocolate sauce.",
+          "price": 410,
+          "restaurant_id": 3,
+          "origin": "Mexico",
+          "image": "https://example.com/churros.jpg"
         },
         {
-            "id": 2,
-            "food": "Chicken Tikka Masala",
-            "description": "Exotic flavors of India! Tender, marinated chicken tikka immersed in a luscious, spiced tomato and cream sauce.",
-            "price": 12.49,
-            "restaurant_id": 7,
-            "image": "https://tinyurl.com/hj82mrh2"
+          "id": 17,
+          "name": "Mole Sauce",
+          "description": "Complex sauce made with chili peppers, spices, and chocolate.",
+          "price": 1050,
+          "restaurant_id": 4,
+          "origin": "Mexico",
+          "image": "https://example.com/mole_sauce.jpg"
         },
         {
-            "id": 3,
-            "food": "Steakhouse Burger",
-            "description": "Carnivore's dream come true! Juicy, flame-grilled beef patty topped with smoky bacon, melted cheese, fresh veggies, and secret sauce.",
-            "price": 8.99,
-            "restaurant_id": 7,
-            "image": "https://tinyurl.com/mtvsf9et"
+          "id": 17,
+          "name": "Chicken Tikka Masala",
+          "description": "Grilled chicken cooked in a creamy tomato-based sauce.",
+          "price": 920,
+          "restaurant_id": 1,
+          "origin": "India",
+          "image": "https://example.com/chicken_tikka_masala.jpg"
         },
         {
-            "id": 4,
-            "food": "Sushi Combo",
-            "description": "A masterful journey through Japan! Exquisite assortment of fresh sashimi and flavorful sushi rolls. Each bite is a work of art!",
-            "price": 22.99,
-            "restaurant_id": 4,
-            "image": "https://tinyurl.com/bddcbahw"
+          "id": 18,
+          "name": "Biryani",
+          "description": "Fragrant rice dish cooked with spices and meat or vegetables.",
+          "price": 850,
+          "restaurant_id": 2,
+          "origin": "India",
+          "image": "https://example.com/biryani.jpg"
         },
         {
-            "id": 5,
-            "food": "Enchiladas",
-            "description": "A fiesta of flavors! Soft corn tortillas enveloping succulent shredded chicken, zesty enchilada sauce, and melted cheese.",
-            "price": 9.95,
-            "restaurant_id": 8,
-            "image": "https://tinyurl.com/yvw2as6c"
+          "id": 19,
+          "name": "Paneer Butter Masala",
+          "description": "Soft paneer (cottage cheese) cubes in a creamy tomato-based sauce.",
+          "price": 750,
+          "restaurant_id": 3,
+          "origin": "India",
+          "image": "https://example.com/paneer_butter_masala.jpg"
         },
         {
-            "id": 6,
-            "food": "Chicken Alfredo",
-            "description": "Creamy indulgence! Tender chicken tossed with al dente fettuccine in a velvety, garlic-infused Alfredo sauce.",
-            "price": 14.75,
-            "restaurant_id": 7,
-            "image": "https://tinyurl.com/6a39s5dr"
+          "id": 20,
+          "name": "Dosa",
+          "description": "Thin fermented crepe made from rice and lentils.",
+          "price": 420,
+          "restaurant_id": 4,
+          "origin": "India",
+          "image": "https://example.com/dosa.jpg"
         },
         {
-            "id": 7,
-            "food": "Butter Chicken",
-            "description": "A taste of India's finest! Succulent pieces of chicken cooked in a rich, aromatic tomato and butter-based gravy.",
-            "price": 13.99,
-            "restaurant_id": 1,
-            "image": "https://tinyurl.com/hu64b9n2"
+          "id": 21,
+          "name": "Rogan Josh",
+          "description": "Spicy lamb curry with rich gravy.",
+          "price": 1050,
+          "restaurant_id": 5,
+          "origin": "India",
+          "image": "https://example.com/rogan_josh.jpg"
         },
         {
-            "id": 8,
-            "food": "Pepperoni Pizza",
-            "description": "Classic delight! Satisfy your cravings with gooey mozzarella, zesty tomato sauce, and generous pepperoni toppings on our crispy crust.",
-            "price": 12.99,
-            "restaurant_id": 2,
-            "image": "https://tinyurl.com/rr85pcyv"
+          "id": 22,
+          "name": "Chole Bhature",
+          "description": "Chickpea curry served with deep-fried bread.",
+          "price": 580,
+          "restaurant_id": 6,
+          "origin": "India",
+          "image": "https://example.com/chole_bhature.jpg"
         },
         {
-            "id": 9,
-            "food": "Quesadillas",
-            "description": "Cheesy perfection! Flour tortillas filled with mouthwatering grilled chicken and oozy melted cheese. A Tex-Mex favorite!",
-            "price": 7.99,
-            "restaurant_id": 6,
-            "image": "https://tinyurl.com/3nh77jb6"
+          "id": 23,
+          "name": "Samosa",
+          "description": "Deep-fried pastry filled with spiced potatoes and peas.",
+          "price": 320,
+          "restaurant_id": 7,
+          "origin": "India",
+          "image": "https://example.com/samosa.jpg"
         },
         {
-            "id": 10,
-            "food": "Tempura Roll",
-            "description": "Japanese delicacy! Crispy tempura shrimp and fresh veggies rolled in soft sushi rice and nori. A delightful fusion of flavors!",
-            "price": 18.50,
-            "restaurant_id": 8,
-            "image": "https://tinyurl.com/4nn2kamw"
+          "id": 24,
+          "name": "Gulab Jamun",
+          "description": "Milk solids dumplings soaked in sugar syrup.",
+          "price": 380,
+          "restaurant_id": 8,
+          "origin": "India",
+          "image": "https://example.com/gulab_jamun.jpg"
         },
         {
-            "id": 11,
-            "food": "Pad Thai",
-            "description": "Thai street food delight! Stir-fried rice noodles with succulent shrimp, tofu, crushed peanuts, and a burst of tangy flavors.",
-            "price": 11.99,
-            "restaurant_id": 5,
-            "image": "https://tinyurl.com/wds557bn"
+          "id": 25,
+          "name": "Kung Pao Chicken",
+          "description": "Spicy stir-fried chicken with peanuts and vegetables.",
+          "price": 890,
+          "restaurant_id": 9,
+          "origin": "China",
+          "image": "https://example.com/kung_pao_chicken.jpg"
         },
         {
-            "id": 12,
-            "food": "Grilled Shrimp",
-            "description": "Seafood heaven! Succulent shrimp seasoned and grilled to smoky perfection, served with a zesty dipping sauce.",
-            "price": 16.99,
-            "restaurant_id": 5,
-            "image": "https://tinyurl.com/5n749tre"
+          "id": 26,
+          "name": "Dim Sum",
+          "description": "Assorted bite-sized dishes typically served in steamer baskets.",
+          "price": 740,
+          "restaurant_id": 10,
+          "origin": "China",
+          "image": "https://example.com/dim_sum.jpg"
         },
         {
-            "id": 13,
-            "food": "Chicken Shawarma",
-            "description": "Succulent chicken shawarma",
-            "price": 10.99,
-            "restaurant_id": 1,
-            "image": "https://tinyurl.com/mryjam8z"
-          },
-          {
-            "id": 14,
-            "food": "Greek Moussaka",
-            "description": "Classic Greek moussaka casserole",
-            "price": 13.99,
-            "restaurant_id": 6,
-            "image": "https://tinyurl.com/bdh9u76z"
-          },
-          {
-            "id": 15,
-            "food": "Spanakopita",
-            "description": "Mediterranean goodness! Flaky phyllo pastry filled with savory spinach, feta cheese, and aromatic herbs. A taste of Greece!",
-            "price": 9.25,
-            "restaurant_id": 6,
-            "image": "https://tinyurl.com/2p8t892u"
+          "id": 27,
+          "name": "Peking Duck",
+          "description": "Roasted duck served with thin pancakes and hoisin sauce.",
+          "price": 1250,
+          "restaurant_id": 11,
+          "origin": "China",
+          "image": "https://example.com/peking_duck.jpg"
         },
         {
-            "id": 16,
-            "food": "Croissant",
-            "description": "French flakiness! Golden-brown, buttery layers with a soft, airy interior. The perfect companion to your morning coffee.",
-            "price": 3.75,
-            "restaurant_id": 3,
-            "image": "https://tinyurl.com/2hwu8j5b"
+          "id": 28,
+          "name": "Hot Pot",
+          "description": "Communal cooking pot with various ingredients cooked in flavored broth.",
+          "price": 970,
+          "restaurant_id": 12,
+          "origin": "China",
+          "image": "https://example.com/hot_pot.jpg"
+        },
+        {
+          "id": 29,
+          "name": "Pad Thai",
+          "description": "Stir-fried rice noodles with shrimp, tofu, and peanuts.",
+          "price": 820,
+          "restaurant_id": 13,
+          "origin": "Thailand",
+          "image": "https://example.com/pad_thai.jpg"
+        },
+        {
+          "id": 30,
+          "name": "Green Curry",
+          "description": "Spicy coconut milk-based curry with meat and vegetables.",
+          "price": 920,
+          "restaurant_id": 14,
+          "origin": "Thailand",
+          "image": "https://example.com/green_curry.jpg"
+        },
+        {
+          "id": 31,
+          "name": "Tom Yum Goong",
+          "description": "Spicy and sour shrimp soup with lemongrass and lime leaves.",
+          "price": 710,
+          "restaurant_id": 15,
+          "origin": "Thailand",
+          "image": "https://example.com/tom_yum_goong.jpg"
+        },
+        {
+          "id": 32,
+          "name": "Som Tum",
+          "description": "Green papaya salad with chili, lime, and peanuts.",
+          "price": 620,
+          "restaurant_id": 16,
+          "origin": "Thailand",
+          "image": "https://example.com/som_tum.jpg"
+        },
+        {
+          "id": 33,
+          "name": "Paella",
+          "description": "Rice dish with saffron, meat, seafood, and vegetables.",
+          "price": 1080,
+          "restaurant_id": 17,
+          "origin": "Spain",
+          "image": "https://example.com/paella.jpg"
+        },
+        {
+          "id": 34,
+          "name": "Tapas",
+          "description": "Assorted appetizers or snacks served on small plates.",
+          "price": 480,
+          "restaurant_id": 18,
+          "origin": "Spain",
+          "image": "https://example.com/tapas.jpg"
+        },
+        {
+          "id": 35,
+          "name": "Gazpacho",
+          "description": "Cold tomato-based soup with vegetables and olive oil.",
+          "price": 380,
+          "restaurant_id": 19,
+          "origin": "Spain",
+          "image": "https://example.com/gazpacho.jpg"
+        },
+        {
+          "id": 36,
+          "name": "Churros",
+          "description": "Fried dough pastry coated in sugar, often served with chocolate sauce.",
+          "price": 420,
+          "restaurant_id": 20,
+          "origin": "Spain",
+          "image": "https://example.com/churros.jpg"
+        },
+        {
+          "id": 37,
+          "name": "Spring Rolls",
+          "description": "Crispy rolls filled with vegetables and meat or shrimp.",
+          "price": 540,
+          "restaurant_id": 9,
+          "origin": "China",
+          "image": "https://example.com/spring_rolls.jpg"
+        },
+        {
+          "id": 38,
+          "name": "Mapo Tofu",
+          "description": "Spicy tofu dish with minced meat and Sichuan peppercorns.",
+          "price": 670,
+          "restaurant_id": 10,
+          "origin": "China",
+          "image": "https://example.com/mapo_tofu.jpg"
+        },
+        {
+          "id": 39,
+          "name": "Chow Mein",
+          "description": "Stir-fried noodles with vegetables and meat or shrimp.",
+          "price": 720,
+          "restaurant_id": 11,
+          "origin": "China",
+          "image": "https://example.com/chow_mein.jpg"
+        },
+        {
+          "id": 40,
+          "name": "Szechuan Beef",
+          "description": "Spicy beef stir-fry with Szechuan peppercorns and vegetables.",
+          "price": 980,
+          "restaurant_id": 12,
+          "origin": "China",
+          "image": "https://example.com/szechuan_beef.jpg"
+        },
+        {
+          "id": 41,
+          "name": "Massaman Curry",
+          "description": "Rich and fragrant curry with meat and potatoes.",
+          "price": 990,
+          "restaurant_id": 13,
+          "origin": "Thailand",
+          "image": "https://example.com/massaman_curry.jpg"
+        },
+        {
+          "id": 42,
+          "name": "Khao Pad",
+          "description": "Fried rice with meat, vegetables, and eggs.",
+          "price": 680,
+          "restaurant_id": 14,
+          "origin": "Thailand",
+          "image": "https://example.com/khao_pad.jpg"
+        },
+        {
+          "id": 43,
+          "name": "Green Papaya Salad",
+          "description": "Shredded green papaya with tomatoes, chili, and lime dressing.",
+          "price": 550,
+          "restaurant_id": 15,
+          "origin": "Thailand",
+          "image": "https://example.com/green_papaya_salad.jpg"
+        },
+        {
+          "id": 44,
+          "name": "Mango Sticky Rice",
+          "description": "Sweet and creamy dessert made with ripe mango and sticky rice.",
+          "price": 420,
+          "restaurant_id": 16,
+          "origin": "Thailand",
+          "image": "https://example.com/mango_sticky_rice.jpg"
+        },
+        {
+          "id": 45,
+          "name": "Patatas Bravas",
+          "description": "Crispy fried potatoes served with spicy tomato sauce.",
+          "price": 450,
+          "restaurant_id": 17,
+          "origin": "Spain",
+          "image": "https://example.com/patatas_bravas.jpg"
+        },
+        {
+          "id": 46,
+          "name": "Tortilla Española",
+          "description": "Spanish omelette with potatoes and onions.",
+          "price": 490,
+          "restaurant_id": 18,
+          "origin": "Spain",
+          "image": "https://example.com/tortilla_espanola.jpg"
+        },
+        {
+          "id": 47,
+          "name": "Gambas al Ajillo",
+          "description": "Garlic shrimp cooked in olive oil and chili peppers.",
+          "price": 890,
+          "restaurant_id": 19,
+          "origin": "Spain",
+          "image": "https://example.com/gambas_al_ajillo.jpg"
+        },
+        {
+          "id": 48,
+          "name": "Paella Valenciana",
+          "description": "Traditional paella with meat, seafood, and saffron.",
+          "price": 1180,
+          "restaurant_id": 20,
+          "origin": "Spain",
+          "image": "https://example.com/paella_valenciana.jpg"
+        },
+        {
+          "id": 49,
+          "name": "Coq au Vin",
+          "description": "Braised chicken cooked in red wine with mushrooms and onions.",
+          "price": 1180,
+          "restaurant_id": 1,
+          "origin": "France",
+          "image": "https://example.com/coq_au_vin.jpg"
+        },
+        {
+          "id": 50,
+          "name": "Croissant",
+          "description": "Buttery and flaky pastry often enjoyed at breakfast.",
+          "price": 240,
+          "restaurant_id": 2,
+          "origin": "France",
+          "image": "https://example.com/croissant.jpg"
+        },
+        {
+          "id": 51,
+          "name": "Escargot",
+          "description": "Edible snails typically cooked with garlic butter.",
+          "price": 690,
+          "restaurant_id": 3,
+          "origin": "France",
+          "image": "https://example.com/escargot.jpg"
+        },
+        {
+          "id": 52,
+          "name": "Ratatouille",
+          "description": "Vegetable stew with eggplant, zucchini, and bell peppers.",
+          "price": 610,
+          "restaurant_id": 4,
+          "origin": "France",
+          "image": "https://example.com/ratatouille.jpg"
+        },
+        {
+          "id": 53,
+          "name": "Moussaka",
+          "description": "Layered dish with eggplant, ground meat, and béchamel sauce.",
+          "price": 860,
+          "restaurant_id": 5,
+          "origin": "Greece",
+          "image": "https://example.com/moussaka.jpg"
+        },
+        {
+          "id": 54,
+          "name": "Souvlaki",
+          "description": "Grilled meat skewers often served with pita bread and tzatziki.",
+          "price": 720,
+          "restaurant_id": 6,
+          "origin": "Greece",
+          "image": "https://example.com/souvlaki.jpg"
+        },
+        {
+          "id": 55,
+          "name": "Spanakopita",
+          "description": "Spinach and feta cheese wrapped in phyllo pastry.",
+          "price": 490,
+          "restaurant_id": 7,
+          "origin": "Greece",
+          "image": "https://example.com/spanakopita.jpg"
+        },
+        {
+          "id": 56,
+          "name": "Baklava",
+          "description": "Sweet pastry made with layers of filo and nuts, soaked in honey.",
+          "price": 450,
+          "restaurant_id": 8,
+          "origin": "Greece",
+          "image": "https://example.com/baklava.jpg"
+        },
+        {
+          "id": 57,
+          "name": "Feijoada",
+          "description": "Hearty black bean stew with various cuts of meat.",
+          "price": 890,
+          "restaurant_id": 9,
+          "origin": "Brazil",
+          "image": "https://example.com/feijoada.jpg"
+        },
+        {
+          "id": 58,
+          "name": "Coxinha",
+          "description": "Deep-fried chicken croquettes with a savory filling.",
+          "price": 420,
+          "restaurant_id": 10,
+          "origin": "Brazil",
+          "image": "https://example.com/coxinha.jpg"
+        },
+        {
+          "id": 59,
+          "name": "Pão de Queijo",
+          "description": "Cheese bread rolls made with tapioca flour.",
+          "price": 360,
+          "restaurant_id": 11,
+          "origin": "Brazil",
+          "image": "https://example.com/pao_de_queijo.jpg"
+        },
+        {
+          "id": 60,
+          "name": "Caipirinha",
+          "description": "Traditional cocktail made with cachaça, lime, and sugar.",
+          "price": 290,
+          "restaurant_id": 12,
+          "origin": "Brazil",
+          "image": "https://example.com/caipirinha.jpg"
+        },
+        {
+          "id": 61,
+          "name": "Beef Bourguignon",
+          "description": "Beef stew braised in red wine with carrots, onions, and mushrooms.",
+          "price": 1090,
+          "restaurant_id": 13,
+          "origin": "France",
+          "image": "https://example.com/beef_bourguignon.jpg"
+        },
+        {
+          "id": 62,
+          "name": "Crème Brûlée",
+          "description": "Rich custard dessert topped with caramelized sugar.",
+          "price": 410,
+          "restaurant_id": 14,
+          "origin": "France",
+          "image": "https://example.com/creme_brulee.jpg"
+        },
+        {
+          "id": 63,
+          "name": "Baguette",
+          "description": "Long and crusty French bread loaf.",
+          "price": 160,
+          "restaurant_id": 15,
+          "origin": "France",
+          "image": "https://example.com/baguette.jpg"
+        },
+        {
+          "id": 64,
+          "name": "Salade Niçoise",
+          "description": "Salad with tuna, olives, eggs, tomatoes, and anchovies.",
+          "price": 750,
+          "restaurant_id": 16,
+          "origin": "France",
+          "image": "https://example.com/salade_nicoise.jpg"
+        },
+        {
+          "id": 65,
+          "name": "Kleftiko",
+          "description": "Slow-cooked lamb with garlic, lemon, and herbs.",
+          "price": 980,
+          "restaurant_id": 17,
+          "origin": "Greece",
+          "image": "https://example.com/kleftiko.jpg"
+        },
+        {
+          "id": 66,
+          "name": "Koulouri",
+          "description": "Circular bread rings coated with sesame seeds.",
+          "price": 270,
+          "restaurant_id": 18,
+          "origin": "Greece",
+          "image": "https://example.com/koulouri.jpg"
+        },
+        {
+          "id": 67,
+          "name": "Pastitsio",
+          "description": "Baked pasta dish with meat sauce and béchamel topping.",
+          "price": 820,
+          "restaurant_id": 19,
+          "origin": "Greece",
+          "image": "https://example.com/pastitsio.jpg"
+        },
+        {
+          "id": 68,
+          "name": "Loukoumades",
+          "description": "Greek honey donuts sprinkled with cinnamon.",
+          "price": 360,
+          "restaurant_id": 20,
+          "origin": "Greece",
+          "image": "https://example.com/loukoumades.jpg"
+        },
+        {
+          "id": 69,
+          "name": "Vatapá",
+          "description": "Rich and creamy dish made with shrimp, coconut milk, and nuts.",
+          "price": 940,
+          "restaurant_id": 1,
+          "origin": "Brazil",
+          "image": "https://example.com/vatapa.jpg"
+        },
+        {
+          "id": 70,
+          "name": "Carne de Sol",
+          "description": "Sun-dried salted beef, typically served with beans and cassava.",
+          "price": 840,
+          "restaurant_id": 2,
+          "origin": "Brazil",
+          "image": "https://example.com/carne_de_sol.jpg"
+        },
+        {
+          "id": 71,
+          "name": "Brigadeiro",
+          "description": "Sweet chocolate truffles made with condensed milk and cocoa powder.",
+          "price": 320,
+          "restaurant_id": 3,
+          "origin": "Brazil",
+          "image": "https://example.com/brigadeiro.jpg"
+        },
+        {
+          "id": 72,
+          "name": "Açaí Bowl",
+          "description": "Frozen açaí berries topped with fruits, granola, and honey.",
+          "price": 550,
+          "restaurant_id": 4,
+          "origin": "Brazil",
+          "image": "https://example.com/acai_bowl.jpg"
+        },
+        {
+          "id": 73,
+          "name": "Hummus",
+          "description": "Creamy chickpea dip with tahini, garlic, and lemon juice.",
+          "price": 410,
+          "restaurant_id": 5,
+          "origin": "Lebanon",
+          "image": "https://example.com/hummus.jpg"
+        },
+        {
+          "id": 74,
+          "name": "Falafel",
+          "description": "Deep-fried chickpea patties served with tahini sauce.",
+          "price": 350,
+          "restaurant_id": 6,
+          "origin": "Lebanon",
+          "image": "https://example.com/falafel.jpg"
+        },
+        {
+          "id": 75,
+          "name": "Shawarma",
+          "description": "Thinly sliced meat (often chicken or beef) in pita bread with veggies.",
+          "price": 650,
+          "restaurant_id": 7,
+          "origin": "Lebanon",
+          "image": "https://example.com/shawarma.jpg"
+        },
+        {
+          "id": 76,
+          "name": "Tabbouleh",
+          "description": "Salad made with parsley, mint, tomatoes, and bulgur wheat.",
+          "price": 470,
+          "restaurant_id": 8,
+          "origin": "Lebanon",
+          "image": "https://example.com/tabbouleh.jpg"
+        },
+        {
+          "id": 77,
+          "name": "Injera",
+          "description": "Spongy sourdough flatbread, often served with stews.",
+          "price": 320,
+          "restaurant_id": 9,
+          "origin": "Ethiopia",
+          "image": "https://example.com/injera.jpg"
+        },
+        {
+          "id": 78,
+          "name": "Doro Wat",
+          "description": "Spicy chicken stew with berbere seasoning.",
+          "price": 890,
+          "restaurant_id": 10,
+          "origin": "Ethiopia",
+          "image": "https://example.com/doro_wat.jpg"
+        },
+        {
+          "id": 79,
+          "name": "Kitfo",
+          "description": "Raw or rare minced beef seasoned with spices.",
+          "price": 820,
+          "restaurant_id": 11,
+          "origin": "Ethiopia",
+          "image": "https://example.com/kitfo.jpg"
+        },
+        {
+          "id": 80,
+          "name": "Tibs",
+          "description": "Sauteed meat with vegetables and spices.",
+          "price": 720,
+          "restaurant_id": 12,
+          "origin": "Ethiopia",
+          "image": "https://example.com/tibs.jpg"
+        },
+        {
+          "id": 81,
+          "name": "Jollof Rice",
+          "description": "Spiced one-pot rice dish cooked with tomatoes and vegetables.",
+          "price": 540,
+          "restaurant_id": 13,
+          "origin": "Nigeria",
+          "image": "https://example.com/jollof_rice.jpg"
+        },
+        {
+          "id": 82,
+          "name": "Suya",
+          "description": "Grilled spicy meat skewers, often made with beef.",
+          "price": 650,
+          "restaurant_id": 14,
+          "origin": "Nigeria",
+          "image": "https://example.com/suya.jpg"
+        },
+        {
+          "id": 83,
+          "name": "Efo Riro",
+          "description": "Vegetable soup made with spinach, peppers, and palm oil.",
+          "price": 470,
+          "restaurant_id": 15,
+          "origin": "Nigeria",
+          "image": "https://example.com/efo_riro.jpg"
+        },
+        {
+          "id": 84,
+          "name": "Chin Chin",
+          "description": "Crunchy fried snack made with flour, sugar, and butter.",
+          "price": 280,
+          "restaurant_id": 16,
+          "origin": "Nigeria",
+          "image": "https://example.com/chin_chin.jpg"
+        },
+        {
+          "id": 85,
+          "name": "Bibimbap",
+          "description": "Rice bowl topped with various vegetables, meat, and a fried egg.",
+          "price": 860,
+          "restaurant_id": 17,
+          "origin": "Korea",
+          "image": "https://example.com/bibimbap.jpg"
+        },
+        {
+          "id": 86,
+          "name": "Kimchi",
+          "description": "Fermented spicy cabbage, a staple Korean side dish.",
+          "price": 270,
+          "restaurant_id": 18,
+          "origin": "Korea",
+          "image": "https://example.com/kimchi.jpg"
+        },
+        {
+          "id": 87,
+          "name": "Bulgogi",
+          "description": "Marinated and grilled slices of beef or pork.",
+          "price": 890,
+          "restaurant_id": 19,
+          "origin": "Korea",
+          "image": "https://example.com/bulgogi.jpg"
+        },
+        {
+          "id": 88,
+          "name": "Japchae",
+          "description": "Stir-fried glass noodles with vegetables and meat.",
+          "price": 720,
+          "restaurant_id": 20,
+          "origin": "Korea",
+          "image": "https://example.com/japchae.jpg"
+        },
+        {
+          "id": 89,
+          "name": "Pho",
+          "description": "Vietnamese noodle soup with herbs and meat.",
+          "price": 650,
+          "restaurant_id": 1,
+          "origin": "Vietnam",
+          "image": "https://example.com/pho.jpg"
+        },
+        {
+          "id": 90,
+          "name": "Banh Mi",
+          "description": "Vietnamese sandwich with various fillings, often including pickled vegetables.",
+          "price": 380,
+          "restaurant_id": 2,
+          "origin": "Vietnam",
+          "image": "https://example.com/banh_mi.jpg"
+        },
+        {
+          "id": 91,
+          "name": "Goi Cuon",
+          "description": "Fresh spring rolls filled with shrimp, herbs, and rice vermicelli.",
+          "price": 480,
+          "restaurant_id": 3,
+          "origin": "Vietnam",
+          "image": "https://example.com/goi_cuon.jpg"
+        },
+        {
+          "id": 92,
+          "name": "Ca Phe Sua Da",
+          "description": "Vietnamese iced coffee with sweetened condensed milk.",
+          "price": 350,
+          "restaurant_id": 4,
+          "origin": "Vietnam",
+          "image": "https://example.com/ca_phe_sua_da.jpg"
+        },
+        {
+          "id": 93,
+          "name": "Fattoush",
+          "description": "Refreshing salad with vegetables, herbs, and toasted pita.",
+          "price": 360,
+          "restaurant_id": 5,
+          "origin": "Lebanon",
+          "image": "https://example.com/fattoush.jpg"
+        },
+        {
+          "id": 94,
+          "name": "Kibbeh",
+          "description": "Deep-fried bulgur and minced meat croquettes.",
+          "price": 530,
+          "restaurant_id": 6,
+          "origin": "Lebanon",
+          "image": "https://example.com/kibbeh.jpg"
+        },
+        {
+          "id": 95,
+          "name": "Manakish",
+          "description": "Flatbread topped with za'atar, cheese, or meat.",
+          "price": 290,
+          "restaurant_id": 7,
+          "origin": "Lebanon",
+          "image": "https://example.com/manakish.jpg"
+        },
+        {
+          "id": 96,
+          "name": "Baklava",
+          "description": "Sweet pastry made with layers of filo and nuts, soaked in honey.",
+          "price": 450,
+          "restaurant_id": 8,
+          "origin": "Lebanon",
+          "image": "https://example.com/baklava.jpg"
+        },
+        {
+          "id": 97,
+          "name": "Tej",
+          "description": "Traditional Ethiopian honey wine.",
+          "price": 370,
+          "restaurant_id": 9,
+          "origin": "Ethiopia",
+          "image": "https://example.com/tej.jpg"
+        },
+        {
+          "id": 98,
+          "name": "Shiro",
+          "description": "Chickpea flour stew often served with injera.",
+          "price": 480,
+          "restaurant_id": 10,
+          "origin": "Ethiopia",
+          "image": "https://example.com/shiro.jpg"
+        },
+        {
+          "id": 99,
+          "name": "Timatim Fitfit",
+          "description": "Ethiopian tomato and bread salad.",
+          "price": 320,
+          "restaurant_id": 11,
+          "origin": "Ethiopia",
+          "image": "https://example.com/timatim_fitfit.jpg"
+        },
+        {
+          "id": 100,
+          "name": "Gomen",
+          "description": "Collard greens cooked with spices and herbs.",
+          "price": 380,
+          "restaurant_id": 12,
+          "origin": "Ethiopia",
+          "image": "https://example.com/gomen.jpg"
+        },
+        {
+          "id": 101,
+          "name": "Pounded Yam and Egusi Soup",
+          "description": "Yam dough served with thick soup made from ground melon seeds.",
+          "price": 690,
+          "restaurant_id": 13,
+          "origin": "Nigeria",
+          "image": "https://example.com/pounded_yam_egusi_soup.jpg"
+        },
+        {
+          "id": 102,
+          "name": "Ogbono Soup",
+          "description": "Thick and hearty soup made from ground ogbono seeds.",
+          "price": 570,
+          "restaurant_id": 14,
+          "origin": "Nigeria",
+          "image": "https://example.com/ogbono_soup.jpg"
+        },
+        {
+          "id": 103,
+          "name": "Pepper Soup",
+          "description": "Spicy broth with various meats and fish.",
+          "price": 540,
+          "restaurant_id": 15,
+          "origin": "Nigeria",
+          "image": "https://example.com/pepper_soup.jpg"
+        },
+        {
+          "id": 104,
+          "name": "Chin Chin",
+          "description": "Crunchy fried snack made with flour, sugar, and butter.",
+          "price": 280,
+          "restaurant_id": 16,
+          "origin": "Nigeria",
+          "image": "https://example.com/chin_chin.jpg"
+        },
+        {
+          "id": 105,
+          "name": "Tteokbokki",
+          "description": "Spicy rice cakes cooked with fish cakes and gochujang sauce.",
+          "price": 740,
+          "restaurant_id": 17,
+          "origin": "Korea",
+          "image": "https://example.com/tteokbokki.jpg"
+        },
+        {
+          "id": 106,
+          "name": "Haejangguk",
+          "description": "Spicy beef and vegetable soup, often eaten as a hangover cure.",
+          "price": 620,
+          "restaurant_id": 18,
+          "origin": "Korea",
+          "image": "https://example.com/haejangguk.jpg"
+        },
+        {
+          "id": 107,
+          "name": "Bibim Naengmyeon",
+          "description": "Cold spicy noodles with vegetables and a tangy sauce.",
+          "price": 580,
+          "restaurant_id": 19,
+          "origin": "Korea",
+          "image": "https://example.com/bibim_naengmyeon.jpg"
+        },
+        {
+          "id": 108,
+          "name": "Jjajangmyeon",
+          "description": "Noodles with black bean sauce and vegetables.",
+          "price": 690,
+          "restaurant_id": 20,
+          "origin": "Korea",
+          "image": "https://example.com/jjajangmyeon.jpg"
+        },
+        {
+          "id": 109,
+          "name": "Bun Cha",
+          "description": "Grilled pork and vermicelli noodles served with herbs and sauce.",
+          "price": 750,
+          "restaurant_id": 1,
+          "origin": "Vietnam",
+          "image": "https://example.com/bun_cha.jpg"
+        },
+        {
+          "id": 110,
+          "name": "Goi Ga",
+          "description": "Refreshing salad with shredded chicken, cabbage, and herbs.",
+          "price": 450,
+          "restaurant_id": 2,
+          "origin": "Vietnam",
+          "image": "https://example.com/goi_ga.jpg"
+        },
+        {
+          "id": 111,
+          "name": "Bo La Lot",
+          "description": "Grilled beef wrapped in betel leaves.",
+          "price": 680,
+          "restaurant_id": 3,
+          "origin": "Vietnam",
+          "image": "https://example.com/bo_la_lot.jpg"
+        },
+        {
+          "id": 112,
+          "name": "Ca Phe Trung",
+          "description": "Vietnamese egg coffee with sweetened condensed milk.",
+          "price": 390,
+          "restaurant_id": 4,
+          "origin": "Vietnam",
+          "image": "https://example.com/ca_phe_trung.jpg"
+        },
+        {
+          "id": 113,
+          "name": "Koshari",
+          "description": "Egyptian street food dish with rice, lentils, chickpeas, and pasta, topped with spicy tomato sauce.",
+          "price": 380,
+          "restaurant_id": 5,
+          "origin": "Egypt",
+          "image": "https://example.com/koshari.jpg"
+        },
+        {
+          "id": 114,
+          "name": "Ful Medames",
+          "description": "Fava bean stew served with olive oil, garlic, and lemon.",
+          "price": 310,
+          "restaurant_id": 6,
+          "origin": "Egypt",
+          "image": "https://example.com/ful_medames.jpg"
+        },
+        {
+          "id": 115,
+          "name": "Hawawshi",
+          "description": "Spiced minced meat stuffed in pita bread and baked.",
+          "price": 470,
+          "restaurant_id": 7,
+          "origin": "Egypt",
+          "image": "https://example.com/hawawshi.jpg"
+        },
+        {
+          "id": 116,
+          "name": "Basbousa",
+          "description": "Sweet semolina cake soaked in simple syrup.",
+          "price": 220,
+          "restaurant_id": 8,
+          "origin": "Egypt",
+          "image": "https://example.com/basbousa.jpg"
+        },
+        {
+          "id": 117,
+          "name": "Bratwurst",
+          "description": "Grilled German sausages made with pork, beef, or veal.",
+          "price": 410,
+          "restaurant_id": 9,
+          "origin": "Germany",
+          "image": "https://example.com/bratwurst.jpg"
+        },
+        {
+          "id": 118,
+          "name": "Sauerbraten",
+          "description": "Pot roast marinated in a mixture of vinegar or wine, often served with red cabbage and potato dumplings.",
+          "price": 720,
+          "restaurant_id": 10,
+          "origin": "Germany",
+          "image": "https://example.com/sauerbraten.jpg"
+        },
+        {
+          "id": 119,
+          "name": "Kartoffelsalat",
+          "description": "German potato salad with onions, bacon, and a tangy dressing.",
+          "price": 320,
+          "restaurant_id": 11,
+          "origin": "Germany",
+          "image": "https://example.com/kartoffelsalat.jpg"
+        },
+        {
+          "id": 120,
+          "name": "Black Forest Cake",
+          "description": "Chocolate sponge cake with cherries and whipped cream.",
+          "price": 490,
+          "restaurant_id": 12,
+          "origin": "Germany",
+          "image": "https://example.com/black_forest_cake.jpg"
+        },
+        {
+          "id": 121,
+          "name": "Borscht",
+          "description": "Beetroot soup with vegetables, often served with sour cream.",
+          "price": 340,
+          "restaurant_id": 13,
+          "origin": "Russia",
+          "image": "https://example.com/borscht.jpg"
+        },
+        {
+          "id": 122,
+          "name": "Beef Stroganoff",
+          "description": "Sauteed beef in a creamy mushroom sauce, often served with noodles.",
+          "price": 650,
+          "restaurant_id": 14,
+          "origin": "Russia",
+          "image": "https://example.com/beef_stroganoff.jpg"
+        },
+        {
+          "id": 123,
+          "name": "Pelmeni",
+          "description": "Dumplings filled with meat, served with sour cream or butter.",
+          "price": 390,
+          "restaurant_id": 15,
+          "origin": "Russia",
+          "image": "https://example.com/pelmeni.jpg"
+        },
+        {
+          "id": 124,
+          "name": "Napoleon Cake",
+          "description": "Layered cake with pastry cream and a flaky crust.",
+          "price": 420,
+          "restaurant_id": 16,
+          "origin": "Russia",
+          "image": "https://example.com/napoleon_cake.jpg"
+        },
+        {
+          "id": 125,
+          "name": "Couscous",
+          "description": "Steamed semolina served with vegetables and meat.",
+          "price": 550,
+          "restaurant_id": 17,
+          "origin": "Morocco",
+          "image": "https://example.com/couscous.jpg"
+        },
+        {
+          "id": 126,
+          "name": "Tagine",
+          "description": "Slow-cooked stew with meat, vegetables, and Moroccan spices.",
+          "price": 690,
+          "restaurant_id": 18,
+          "origin": "Morocco",
+          "image": "https://example.com/tagine.jpg"
+        },
+        {
+          "id": 127,
+          "name": "Harira",
+          "description": "Tomato-based soup with lentils, chickpeas, and lamb.",
+          "price": 410,
+          "restaurant_id": 19,
+          "origin": "Morocco",
+          "image": "https://example.com/harira.jpg"
+        },
+        {
+          "id": 128,
+          "name": "Pastilla",
+          "description": "Sweet and savory pie with layers of meat, almonds, and spices.",
+          "price": 800,
+          "restaurant_id": 20,
+          "origin": "Morocco",
+          "image": "https://example.com/pastilla.jpg"
+        },
+        {
+          "id": 129,
+          "name": "Ceviche",
+          "description": "Citrus-marinated seafood served with onions, corn, and sweet potato.",
+          "price": 670,
+          "restaurant_id": 1,
+          "origin": "Peru",
+          "image": "https://example.com/ceviche.jpg"
+        },
+        {
+          "id": 130,
+          "name": "Lomo Saltado",
+          "description": "Stir-fry of beef, onions, tomatoes, and french fries, often served with rice.",
+          "price": 750,
+          "restaurant_id": 2,
+          "origin": "Peru",
+          "image": "https://example.com/lomo_saltado.jpg"
+        },
+        {
+          "id": 131,
+          "name": "Aji de Gallina",
+          "description": "Creamy chicken stew with aji amarillo peppers and walnuts.",
+          "price": 580,
+          "restaurant_id": 3,
+          "origin": "Peru",
+          "image": "https://example.com/aji_de_gallina.jpg"
+        },
+        {
+          "id": 132,
+          "name": "Picarones",
+          "description": "Sweet potato and pumpkin doughnuts served with molasses syrup.",
+          "price": 320,
+          "restaurant_id": 4,
+          "origin": "Peru",
+          "image": "https://example.com/picarones.jpg"
+        },
+        {
+          "id": 133,
+          "name": "Kebab",
+          "description": "Grilled meat, often served with flatbread and vegetables.",
+          "price": 620,
+          "restaurant_id": 5,
+          "origin": "Turkey",
+          "image": "https://example.com/kebab.jpg"
+        },
+        {
+          "id": 134,
+          "name": "Baklava",
+          "description": "Sweet pastry made with layers of filo and nuts, soaked in honey.",
+          "price": 450,
+          "restaurant_id": 6,
+          "origin": "Turkey",
+          "image": "https://example.com/baklava.jpg"
+        },
+        {
+          "id": 135,
+          "name": "Manti",
+          "description": "Turkish dumplings filled with minced meat and served with yogurt and spices.",
+          "price": 490,
+          "restaurant_id": 7,
+          "origin": "Turkey",
+          "image": "https://example.com/manti.jpg"
+        },
+        {
+          "id": 136,
+          "name": "Turkish Delight",
+          "description": "Chewy confectionery often flavored with rosewater or citrus.",
+          "price": 290,
+          "restaurant_id": 8,
+          "origin": "Turkey",
+          "image": "https://example.com/turkish_delight.jpg"
+        },
+        {
+          "id": 137,
+          "name": "Molokhia",
+          "description": "Leafy green soup made from jute leaves.",
+          "price": 310,
+          "restaurant_id": 9,
+          "origin": "Egypt",
+          "image": "https://example.com/molokhia.jpg"
+        },
+        {
+          "id": 138,
+          "name": "Mahshi",
+          "description": "Stuffed vegetables, often with rice and minced meat.",
+          "price": 470,
+          "restaurant_id": 10,
+          "origin": "Egypt",
+          "image": "https://example.com/mahshi.jpg"
+        },
+        {
+          "id": 139,
+          "name": "Roz Bel Laban",
+          "description": "Rice pudding with milk and nuts.",
+          "price": 290,
+          "restaurant_id": 11,
+          "origin": "Egypt",
+          "image": "https://example.com/roz_bel_laban.jpg"
+        },
+        {
+          "id": 140,
+          "name": "Feteer Meshaltet",
+          "description": "Layered pastry often filled with cheese, honey, or minced meat.",
+          "price": 360,
+          "restaurant_id": 12,
+          "origin": "Egypt",
+          "image": "https://example.com/feteer_meshaltet.jpg"
+        },
+        {
+          "id": 141,
+          "name": "Kartoffelsuppe",
+          "description": "Traditional German potato soup.",
+          "price": 260,
+          "restaurant_id": 13,
+          "origin": "Germany",
+          "image": "https://example.com/kartoffelsuppe.jpg"
+        },
+        {
+          "id": 142,
+          "name": "Apfelstrudel",
+          "description": "Apple strudel pastry with cinnamon and raisins.",
+          "price": 380,
+          "restaurant_id": 14,
+          "origin": "Germany",
+          "image": "https://example.com/apfelstrudel.jpg"
+        },
+        {
+          "id": 143,
+          "name": "Leberkäse",
+          "description": "Baked meatloaf, often served in sandwiches.",
+          "price": 310,
+          "restaurant_id": 15,
+          "origin": "Germany",
+          "image": "https://example.com/leberkase.jpg"
+        },
+        {
+          "id": 144,
+          "name": "Schwarzwälder Kirschtorte",
+          "description": "Black Forest cherry cake with whipped cream and cherries.",
+          "price": 490,
+          "restaurant_id": 16,
+          "origin": "Germany",
+          "image": "https://example.com/schwarzwalder_kirschtorte.jpg"
+        },
+        {
+          "id": 145,
+          "name": "Olivier Salad",
+          "description": "Russian potato salad with vegetables, eggs, and mayonnaise.",
+          "price": 350,
+          "restaurant_id": 17,
+          "origin": "Russia",
+          "image": "https://example.com/olivier_salad.jpg"
+        },
+        {
+          "id": 146,
+          "name": "Pirozhki",
+          "description": "Small stuffed buns with various fillings, such as meat, vegetables, or sweet preserves.",
+          "price": 260,
+          "restaurant_id": 18,
+          "origin": "Russia",
+          "image": "https://example.com/pirozhki.jpg"
+        },
+        {
+          "id": 147,
+          "name": "Syrniki",
+          "description": "Cottage cheese pancakes, often served with sour cream or jam.",
+          "price": 290,
+          "restaurant_id": 19,
+          "origin": "Russia",
+          "image": "https://example.com/syrniki.jpg"
+        },
+        {
+          "id": 148,
+          "name": "Blini",
+          "description": "Thin Russian pancakes, usually served with caviar, sour cream, or jam.",
+          "price": 340,
+          "restaurant_id": 20,
+          "origin": "Russia",
+          "image": "https://example.com/blini.jpg"
+        },
+        {
+          "id": 149,
+          "name": "Mrouzia",
+          "description": "Sweet and savory lamb dish cooked with honey, almonds, and spices.",
+          "price": 850,
+          "restaurant_id": 1,
+          "origin": "Morocco",
+          "image": "https://example.com/mrouzia.jpg"
+        },
+        {
+          "id": 150,
+          "name": "Zaalouk",
+          "description": "Moroccan eggplant salad with tomatoes, garlic, and spices.",
+          "price": 290,
+          "restaurant_id": 2,
+          "origin": "Morocco",
+          "image": "https://example.com/zaalouk.jpg"
+        },
+        {
+          "id": 151,
+          "name": "Mechoui",
+          "description": "Slow-roasted whole lamb or sheep, seasoned with spices.",
+          "price": 990,
+          "restaurant_id": 3,
+          "origin": "Morocco",
+          "image": "https://example.com/mechoui.jpg"
+        },
+        {
+          "id": 152,
+          "name": "Chebakia",
+          "description": "Honey-soaked sesame cookies, often served during special occasions.",
+          "price": 330,
+          "restaurant_id": 4,
+          "origin": "Morocco",
+          "image": "https://example.com/chebakia.jpg"
+        },
+        {
+          "id": 153,
+          "name": "Anticuchos",
+          "description": "Grilled beef heart skewers, often served with potatoes and spicy sauce.",
+          "price": 530,
+          "restaurant_id": 5,
+          "origin": "Peru",
+          "image": "https://example.com/anticuchos.jpg"
+        },
+        {
+          "id": 154,
+          "name": "Papa a la Huancaína",
+          "description": "Potatoes in spicy cheese sauce, typically served cold.",
+          "price": 310,
+          "restaurant_id": 6,
+          "origin": "Peru",
+          "image": "https://example.com/papa_a_la_huancaina.jpg"
+        },
+        {
+          "id": 155,
+          "name": "Tacu Tacu",
+          "description": "Rice and beans cake, often served with steak and salsa criolla.",
+          "price": 480,
+          "restaurant_id": 7,
+          "origin": "Peru",
+          "image": "https://example.com/tacu_tacu.jpg"
+        },
+        {
+          "id": 156,
+          "name": "Suspiro Limeño",
+          "description": "Sweet and creamy dessert with caramel and meringue.",
+          "price": 320,
+          "restaurant_id": 8,
+          "origin": "Peru",
+          "image": "https://example.com/suspiro_limeno.jpg"
+        },
+        {
+          "id": 157,
+          "name": "Döner Kebab",
+          "description": "Spit-roasted meat served in flatbread with vegetables and sauce.",
+          "price": 580,
+          "restaurant_id": 9,
+          "origin": "Turkey",
+          "image": "https://example.com/doner_kebab.jpg"
+        },
+        {
+          "id": 158,
+          "name": "Köfte",
+          "description": "Turkish meatballs made from minced meat and spices.",
+          "price": 460,
+          "restaurant_id": 10,
+          "origin": "Turkey",
+          "image": "https://example.com/koft.jpg"
+        },
+        {
+          "id": 159,
+          "name": "Pide",
+          "description": "Turkish flatbread topped with various ingredients, similar to pizza.",
+          "price": 410,
+          "restaurant_id": 11,
+          "origin": "Turkey",
+          "image": "https://example.com/pide.jpg"
+        },
+        {
+          "id": 160,
+          "name": "Baklava",
+          "description": "Sweet pastry made with layers of filo and nuts, soaked in honey.",
+          "price": 450,
+          "restaurant_id": 12,
+          "origin": "Turkey",
+          "image": "https://example.com/baklava.jpg"
+        },
+        {
+          "id": 161,
+          "name": "Biltong",
+          "description": "Dried and seasoned meat, similar to beef jerky.",
+          "price": 430,
+          "restaurant_id": 13,
+          "origin": "South Africa",
+          "image": "https://example.com/biltong.jpg"
+        },
+        {
+          "id": 162,
+          "name": "Bobotie",
+          "description": "Cape Malay spiced meat dish with an egg-based topping.",
+          "price": 490,
+          "restaurant_id": 14,
+          "origin": "South Africa",
+          "image": "https://example.com/bobotie.jpg"
+        },
+        {
+          "id": 163,
+          "name": "Pap en Wors",
+          "description": "Boerewors (sausage) served with maize porridge.",
+          "price": 350,
+          "restaurant_id": 15,
+          "origin": "South Africa",
+          "image": "https://example.com/pap_en_wors.jpg"
+        },
+        {
+          "id": 164,
+          "name": "Malva Pudding",
+          "description": "Spongy caramelized pudding served with custard.",
+          "price": 270,
+          "restaurant_id": 16,
+          "origin": "South Africa",
+          "image": "https://example.com/malva_pudding.jpg"
+        },
+        {
+          "id": 165,
+          "name": "Sosaties",
+          "description": "Marinated and skewered meat with dried fruit, a traditional Cape Malay dish.",
+          "price": 410,
+          "restaurant_id": 17,
+          "origin": "South Africa",
+          "image": "https://example.com/sosaties.jpg"
+        },
+        {
+          "id": 166,
+          "name": "Potjiekos",
+          "description": "Traditional stew slow-cooked in a cast-iron pot over open flames.",
+          "price": 500,
+          "restaurant_id": 18,
+          "origin": "South Africa",
+          "image": "https://example.com/potjiekos.jpg"
+        },
+        {
+          "id": 167,
+          "name": "Chakalaka",
+          "description": "Spicy vegetable relish, often served as a side dish.",
+          "price": 200,
+          "restaurant_id": 19,
+          "origin": "South Africa",
+          "image": "https://example.com/chakalaka.jpg"
+        },
+        {
+          "id": 168,
+          "name": "Koeksisters",
+          "description": "Braided and fried dough pastry soaked in syrup.",
+          "price": 330,
+          "restaurant_id": 20,
+          "origin": "South Africa",
+          "image": "https://example.com/koeksisters.jpg"
+        },
+        {
+          "id": 169,
+          "name": "Ugali",
+          "description": "Staple food made from maize flour, served with various stews.",
+          "price": 210,
+          "restaurant_id": 1,
+          "origin": "Kenya",
+          "image": "https://example.com/ugali.jpg"
+        },
+        {
+          "id": 170,
+          "name": "Nyama Choma",
+          "description": "Grilled meat, often served with side dishes like ugali and kachumbari.",
+          "price": 590,
+          "restaurant_id": 2,
+          "origin": "Kenya",
+          "image": "https://example.com/nyama_choma.jpg"
+        },
+        {
+          "id": 171,
+          "name": "Sukuma Wiki",
+          "description": "Sautéed collard greens with onions and tomatoes.",
+          "price": 280,
+          "restaurant_id": 3,
+          "origin": "Kenya",
+          "image": "https://example.com/sukuma_wiki.jpg"
+        },
+        {
+          "id": 172,
+          "name": "Mandazi",
+          "description": "Sweet fried dough, popular as a snack or breakfast.",
+          "price": 190,
+          "restaurant_id": 4,
+          "origin": "Kenya",
+          "image": "https://example.com/mandazi.jpg"
+        },
+        {
+          "id": 173,
+          "name": "Githeri",
+          "description": "Mixed stew of boiled maize and beans.",
+          "price": 260,
+          "restaurant_id": 5,
+          "origin": "Kenya",
+          "image": "https://example.com/githeri.jpg"
+        },
+        {
+          "id": 174,
+          "name": "Irio",
+          "description": "Mashed peas and potatoes, often served with meat stew.",
+          "price": 320,
+          "restaurant_id": 6,
+          "origin": "Kenya",
+          "image": "https://example.com/irio.jpg"
+        },
+        {
+          "id": 175,
+          "name": "Chapati",
+          "description": "Thin unleavened flatbread, a common accompaniment to meals.",
+          "price": 180,
+          "restaurant_id": 7,
+          "origin": "Kenya",
+          "image": "https://example.com/chapati.jpg"
+        },
+        {
+          "id": 176,
+          "name": "Samosa",
+          "description": "Deep-fried pastry filled with spiced meat or vegetables.",
+          "price": 220,
+          "restaurant_id": 8,
+          "origin": "Kenya",
+          "image": "https://example.com/samosa.jpg"
+        },
+        {
+          "id": 177,
+          "name": "Mutura",
+          "description": "Kenyan sausage made with minced meat and spices.",
+          "price": 280,
+          "restaurant_id": 9,
+          "origin": "Kenya",
+          "image": "https://example.com/mutura.jpg"
+        },
+        {
+          "id": 178,
+          "name": "Mahamri",
+          "description": "Sweet and coconut-flavored doughnuts.",
+          "price": 190,
+          "restaurant_id": 10,
+          "origin": "Kenya",
+          "image": "https://example.com/mahamri.jpg"
+        },
+        {
+          "id": 179,
+          "name": "Omena",
+          "description": "Small dried fish, often used in stews or eaten as a snack.",
+          "price": 210,
+          "restaurant_id": 11,
+          "origin": "Kenya",
+          "image": "https://example.com/omena.jpg"
+        },
+        {
+          "id": 180,
+          "name": "Kachumbari",
+          "description": "Tomato and onion salad, commonly served with nyama choma.",
+          "price": 150,
+          "restaurant_id": 12,
+          "origin": "Kenya",
+          "image": "https://example.com/kachumbari.jpg"
+        },
+        {
+          "id": 181,
+          "name": "Pilau",
+          "description": "Spiced rice dish often cooked with meat or seafood.",
+          "price": 420,
+          "restaurant_id": 13,
+          "origin": "Kenya",
+          "image": "https://example.com/pilau.jpg"
+        },
+        {
+          "id": 182,
+          "name": "Matoke",
+          "description": "Green banana stew, a favorite in Kenyan cuisine.",
+          "price": 280,
+          "restaurant_id": 14,
+          "origin": "Kenya",
+          "image": "https://example.com/matoke.jpg"
+        },
+        {
+          "id": 183,
+          "name": "Sukuma Wiki Ugali",
+          "description": "Sukuma wiki served with ugali, a simple and satisfying meal.",
+          "price": 230,
+          "restaurant_id": 15,
+          "origin": "Kenya",
+          "image": "https://example.com/sukuma_wiki_ugali.jpg"
+        },
+        {
+          "id": 184,
+          "name": "Nyama Na Irio",
+          "description": "A combination of nyama choma and irio, a flavorful dish.",
+          "price": 550,
+          "restaurant_id": 16,
+          "origin": "Kenya",
+          "image": "https://example.com/nyama_na_irio.jpg"
+        },
+        {
+          "id": 185,
+          "name": "Kuku Paka",
+          "description": "Coconut chicken curry, a delightful Kenyan delicacy.",
+          "price": 410,
+          "restaurant_id": 17,
+          "origin": "Kenya",
+          "image": "https://example.com/kuku_paka.jpg"
+        },
+        {
+          "id": 186,
+          "name": "Mandazi Chai",
+          "description": "Mandazi served with spiced tea, a popular tea-time treat.",
+          "price": 220,
+          "restaurant_id": 18,
+          "origin": "Kenya",
+          "image": "https://example.com/mandazi_chai.jpg"
+        },
+        {
+          "id": 187,
+          "name": "Maharagwe",
+          "description": "Coconut-infused kidney bean stew, often eaten with rice or chapati.",
+          "price": 260,
+          "restaurant_id": 19,
+          "origin": "Kenya",
+          "image": "https://example.com/maharagwe.jpg"
+        },
+        {
+          "id": 188,
+          "name": "Mursik",
+          "description": "Traditional fermented milk, a unique Kenyan beverage.",
+          "price": 180,
+          "restaurant_id": 20,
+          "origin": "Kenya",
+          "image": "https://example.com/mursik.jpg"
+        },
+        {
+          "id": 189,
+          "name": "Chips Mayai",
+          "description": "Fries omelette, a popular street food in Kenya.",
+          "price": 190,
+          "restaurant_id": 1,
+          "origin": "Kenya",
+          "image": "https://example.com/chips_mayai.jpg"
+        },
+        {
+          "id": 190,
+          "name": "Samaki Wa Kupaka",
+          "description": "Fish in coconut sauce, a coastal specialty.",
+          "price": 480,
+          "restaurant_id": 2,
+          "origin": "Kenya",
+          "image": "https://example.com/samaki_wa_kupaka.jpg"
+        },
+        {
+          "id": 191,
+          "name": "Sukuma Wiki with Matoke",
+          "description": "Sukuma wiki served with matoke, a wholesome combination.",
+          "price": 270,
+          "restaurant_id": 3,
+          "origin": "Kenya",
+          "image": "https://example.com/sukuma_wiki_matoke.jpg"
+        },
+        {
+          "id": 192,
+          "name": "Mbaazi Wa Nazi",
+          "description": "Pigeon peas in coconut milk, often enjoyed with rice.",
+          "price": 250,
+          "restaurant_id": 4,
+          "origin": "Kenya",
+          "image": "https://example.com/mbaazi_wa_nazi.jpg"
         }
+
     ],
     
     "orders": [
