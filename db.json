@@ -2,140 +2,140 @@
   "restaurant": [
       { 
             "id": 1,
-            "name": "The Grill House",
+            "food": "The Grill House",
             "description": "Sizzling steaks and grilled meats",
             "contact": "542-222-2133",
             "image": "https://images.pexels.com/photos/15378105/pexels-photo-15378105/free-photo-of-well-done-rib.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 2,
-            "name": "The Bistro",
+            "food": "The Bistro",
             "description": "French-inspired cuisine in a cozy setting",
             "contact": "333-222-3333",
             "image": "https://images.pexels.com/photos/2923034/pexels-photo-2923034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 3,
-            "name": "Gourmet Kitchen",
+            "food": "Gourmet Kitchen",
             "description": "Fine dining with a focus on fresh ingredients",
             "contact": "544-222-3311",
             "image": "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 4,
-            "name": "Pit Spot",
+            "food": "Pit Spot",
             "description": "BBQ and grilled meats in a casual setting",
             "contact": "555-424-3333",
             "image": "https://images.pexels.com/photos/8523166/pexels-photo-8523166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 5,
-            "name": "The Hash House",
+            "food": "The Hash House",
             "description": "Hearty breakfast and brunch options",
             "contact": "555-222-1111",
             "image": "https://images.pexels.com/photos/4947396/pexels-photo-4947396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 6,
-            "name": "The Deli",
+            "food": "The Deli",
             "description": "Freshly made sandwiches and salads",
             "contact": "123-222-3333",
             "image": "https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 7,
-            "name": "The Green house",
+            "food": "The Green house",
             "description": "A variety of dishes in a cozy atmosphere",
             "contact": "555-868-3333",
-            "image": "https://images.pexels.com/photos/17513578/pexels-photo-17513578/free-photo-of-restaurant-name-on-wall.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+            "image": "https://images.pexels.com/photos/17513578/pexels-photo-17513578/free-photo-of-restaurant-food-on-wall.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 8,
-            "name": "The Brunch",
+            "food": "The Brunch",
             "description": "Delicious brunch options served all day",
             "contact": "568-222-3333",
             "image": "https://images.pexels.com/photos/239975/pexels-photo-239975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         }, 
         { 
           "id": 9,
-          "name": "Eat Spot",
+          "food": "Eat Spot",
           "description": "A trendy spot for delicious eats",
           "contact": "111-222-5533",
           "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },  
       { 
             "id": 10,
-            "name": "The British Tea House",
+            "food": "The British Tea House",
             "description": "Traditional British tea and treats",
             "contact": "445-222-3333",
             "image": "https://images.pexels.com/photos/33275/tea-party-tea-black-and-white-teapot.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },
         { 
           "id": 11,
-          "name": "45 Degrees Kitchen",
+          "food": "45 Degrees Kitchen",
           "description": "Organic and sustainable ingredients in a French and Italian influenced menu",
           "contact": "444-222-2223",
           "image": "https://images.pexels.com/photos/6058325/pexels-photo-6058325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },  
         {
             "id": 12,
-            "name": "Saffron Indian Cuisine",
+            "food": "Saffron Indian Cuisine",
             "description": "Authentic North Indian cuisine",
             "contact": "555-123-4567",
             "image": "https://tinyurl.com/yck6w8t7"
         },  
         { 
             "id": 13,
-            "name": "Pizza Planet",
+            "food": "Pizza Planet",
             "description": "Gourmet pizzas baked in a wood-fired oven",
             "contact": "555-987-6543",
             "image": "https://tinyurl.com/5e847sth"
         },  
         { 
             "id": 14,
-            "name": "Sushi Delight",
+            "food": "Sushi Delight",
             "description": "Fresh and delicious sushi rolls",
             "contact": "555-111-2222",
             "image": "https://tinyurl.com/3t996b7d"
         },  
         { 
             "id": 15,
-            "name": "Burger Bistro",
+            "food": "Burger Bistro",
             "description": "Gourmet burgers with a variety of toppings",
             "contact": "555-444-3333",
             "image": "https://tinyurl.com/5er72kes"
         },  
         { 
             "id": 16,
-            "name": "Seafood Cove",
+            "food": "Seafood Cove",
             "description": "Fresh seafood with a coastal vibe",
             "contact": "555-777-2222",
             "image": "https://tinyurl.com/4ntav2nk"
         },  
         { 
             "id": 17,
-            "name": "Taco Time",
+            "food": "Taco Time",
             "description": "Authentic Mexican street tacos",
             "contact": "555-222-1111",
             "image": "https://tinyurl.com/yjahby9u"
         },  
         { 
             "id": 18,
-            "name": "Pho Heaven",
-            "description": "Traditional Vietnamese pho dishes",
+            "food": "Pho Heaven",
+            "description": "Traditional Vietfoodse pho dishes",
             "contact": "555-222-3333",
             "image": "https://tinyurl.com/bdfasbba"
         },  
         { 
             "id": 19,
-            "name": "Tandoori Nights",
+            "food": "Tandoori Nights",
             "description": "Delicious tandoori specialties",
             "contact": "555-444-5555",
             "image": "https://tinyurl.com/yzv9kk3h"
         },
         { 
             "id": 20,
-            "name": "The Snack Bar",
+            "food": "The Snack Bar",
             "description": "Quick bites and snacks on the go",
             "contact": "554-112-3333",
             "image": "https://images.pexels.com/photos/4262012/pexels-photo-4262012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
@@ -146,16 +146,16 @@
     "food": [
       {
         "id": 1,
-        "name": "Pizza Margherita",
+        "food": "Pizza Margherita",
         "description": "Traditional Italian pizza with tomato, mozzarella, and basil",
         "price": 1000,
         "restaurant_id": 1,
         "origin": "Italian",
-        "image": "pizza_margherita.jpg"
+        "image": "https://ooni.com/cdn/shop/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?v=1644590192"
       },
       {
         "id": 2,
-        "name": "Pasta Carbonara",
+        "food": "Pasta Carbonara",
         "description": "Spaghetti with egg, cheese, guanciale, and black pepper",
         "price": 850,
         "restaurant_id": 2,
@@ -164,7 +164,7 @@
       },
       {
         "id": 3,
-        "name": "Lasagna",
+        "food": "Lasagna",
         "description": "Layered pasta dish with meat sauce and cheese",
         "price": 1200,
         "restaurant_id": 3,
@@ -173,7 +173,7 @@
       },
       {
         "id": 4,
-        "name": "Risotto",
+        "food": "Risotto",
         "description": "Creamy rice dish cooked with broth and various ingredients",
         "price": 950,
         "restaurant_id": 4,
@@ -182,7 +182,7 @@
       },
       {
         "id": 5,
-        "name": "Panini",
+        "food": "Panini",
         "description": "Italian sandwiches with various fillings",
         "price": 750,
         "restaurant_id": 5,
@@ -191,7 +191,7 @@
       },
       {
         "id": 6,
-        "name": "Gelato",
+        "food": "Gelato",
         "description": "Italian-style ice cream with various flavors",
         "price": 500,
         "restaurant_id": 6,
@@ -200,7 +200,7 @@
       },
       {
         "id": 7,
-        "name": "Tiramisu",
+        "food": "Tiramisu",
         "description": "Classic Italian dessert made with ladyfingers, coffee, and mascarpone",
         "price": 650,
         "restaurant_id": 7,
@@ -209,7 +209,7 @@
       },
       {
         "id": 8,
-        "name": "Bruschetta",
+        "food": "Bruschetta",
         "description": "Toasted bread topped with tomatoes, garlic, and olive oil",
         "price": 400,
         "restaurant_id": 8,
@@ -218,7 +218,7 @@
       },
       {
         "id": 9,
-        "name": "Osso Bucco",
+        "food": "Osso Bucco",
         "description": "Braised veal shanks with vegetables and gremolata",
         "price": 1200,
         "restaurant_id": 9,
@@ -227,7 +227,7 @@
       },
       {
         "id": 10,
-        "name": "Ravioli",
+        "food": "Ravioli",
         "description": "Stuffed pasta pockets with various fillings",
         "price": 900,
         "restaurant_id": 10,
@@ -236,7 +236,7 @@
       },
       {
         "id": 11,
-        "name": "Cannoli",
+        "food": "Cannoli",
         "description": "Italian pastry filled with sweet ricotta cream",
         "price": 550,
         "restaurant_id": 11,
@@ -245,7 +245,7 @@
       },
       {
         "id": 12,
-        "name": "Prosciutto and Melon",
+        "food": "Prosciutto and Melon",
         "description": "Thinly sliced dry-cured ham with ripe cantaloupe",
         "price": 800,
         "restaurant_id": 12,
@@ -254,7 +254,7 @@
       },
       {
         "id": 13,
-        "name": "Gnocchi",
+        "food": "Gnocchi",
         "description": "Soft dough dumplings typically made with potatoes and flour",
         "price": 700,
         "restaurant_id": 13,
@@ -263,7 +263,7 @@
       },
       {
         "id": 14,
-        "name": "Spaghetti Bolognese",
+        "food": "Spaghetti Bolognese",
         "description": "Spaghetti with rich meat sauce",
         "price": 850,
         "restaurant_id": 14,
@@ -272,7 +272,7 @@
       },
       {
         "id": 15,
-        "name": "Focaccia",
+        "food": "Focaccia",
         "description": "Flat oven-baked bread topped with herbs and olive oil",
         "price": 500,
         "restaurant_id": 15,
@@ -281,7 +281,7 @@
       },
       {
         "id": 16,
-        "name": "Panna Cotta",
+        "food": "Panna Cotta",
         "description": "Creamy Italian dessert with sweetened cream and gelatin",
         "price": 550,
         "restaurant_id": 16,
@@ -290,7 +290,7 @@
       },
       {
         "id": 17,
-        "name": "Caprese Salad",
+        "food": "Caprese Salad",
         "description": "Fresh salad with tomatoes, mozzarella, basil, and olive oil",
         "price": 600,
         "restaurant_id": 17,
@@ -299,7 +299,7 @@
       },
       {
         "id": 18,
-        "name": "Arancini",
+        "food": "Arancini",
         "description": "Fried rice balls typically stuffed with cheese or ragù",
         "price": 500,
         "restaurant_id": 18,
@@ -308,7 +308,7 @@
       },
       {
         "id": 19,
-        "name": "Minestrone Soup",
+        "food": "Minestrone Soup",
         "description": "Hearty vegetable soup with pasta or rice",
         "price": 450,
         "restaurant_id": 19,
@@ -317,7 +317,7 @@
       },
       {
         "id": 20,
-        "name": "Pesto Pasta",
+        "food": "Pesto Pasta",
         "description": "Pasta with a sauce made from basil, pine nuts, and cheese",
         "price": 750,
         "restaurant_id": 20,
@@ -326,7 +326,7 @@
       },
       {
         "id": 21,
-        "name": "Polenta",
+        "food": "Polenta",
         "description": "Cornmeal dish served as a creamy porridge or solidified and sliced",
         "price": 550,
         "restaurant_id": 1,
@@ -335,7 +335,7 @@
       },
       {
         "id": 22,
-        "name": "Saltimbocca",
+        "food": "Saltimbocca",
         "description": "Thin veal cutlets with prosciutto and sage",
         "price": 850,
         "restaurant_id": 2,
@@ -344,7 +344,7 @@
       },
       {
         "id": 23,
-        "name": "Porchetta",
+        "food": "Porchetta",
         "description": "Slow-roasted, seasoned pork belly or loin",
         "price": 900,
         "restaurant_id": 3,
@@ -353,7 +353,7 @@
       },
       {
         "id": 24,
-        "name": "Ossobuco Alla Milanese",
+        "food": "Ossobuco Alla Milanese",
         "description": "Braised veal shanks with gremolata, served with saffron risotto",
         "price": 1200,
         "restaurant_id": 4,
@@ -362,7 +362,7 @@
       },
       {
         "id": 25,
-        "name": "Tortellini",
+        "food": "Tortellini",
         "description": "Ring-shaped stuffed pasta usually served in broth or cream sauce",
         "price": 700,
         "restaurant_id": 5,
@@ -371,7 +371,7 @@
       },
       {
         "id": 26,
-        "name": "Amatriciana Sauce",
+        "food": "Amatriciana Sauce",
         "description": "Tomato-based pasta sauce with guanciale or bacon",
         "price": 800,
         "restaurant_id": 6,
@@ -380,7 +380,7 @@
       },
       {
         "id": 27,
-        "name": "Cacio e Pepe",
+        "food": "Cacio e Pepe",
         "description": "Spaghetti with Pecorino Romano cheese and black pepper",
         "price": 750,
         "restaurant_id": 7,
@@ -389,7 +389,7 @@
       },
       {
         "id": 28,
-        "name": "Trenette al Pesto",
+        "food": "Trenette al Pesto",
         "description": "Pasta similar to linguine with basil pesto",
         "price": 700,
         "restaurant_id": 8,
@@ -398,7 +398,7 @@
       },
       {
         "id": 29,
-        "name": "Vitello Tonnato",
+        "food": "Vitello Tonnato",
         "description": "Chilled veal with tuna and caper sauce",
         "price": 1100,
         "restaurant_id": 9,
@@ -407,7 +407,7 @@
       },
       {
         "id": 30,
-        "name": "Tagliatelle Bolognese",
+        "food": "Tagliatelle Bolognese",
         "description": "Ribbon pasta with traditional Bolognese sauce",
         "price": 850,
         "restaurant_id": 10,
@@ -416,7 +416,7 @@
       },
       {
         "id": 31,
-        "name": "Farinata",
+        "food": "Farinata",
         "description": "Savory chickpea pancake",
         "price": 400,
         "restaurant_id": 11,
@@ -425,7 +425,7 @@
       },
       {
         "id": 32,
-        "name": "Cioppino",
+        "food": "Cioppino",
         "description": "Italian-American fish stew with various seafood",
         "price": 1000,
         "restaurant_id": 12,
@@ -434,7 +434,7 @@
       },
       {
         "id": 33,
-        "name": "Cassata Siciliana",
+        "food": "Cassata Siciliana",
         "description": "Sicilian sponge cake with ricotta and candied fruit",
         "price": 700,
         "restaurant_id": 13,
@@ -443,7 +443,7 @@
       },
       {
         "id": 34,
-        "name": "Braciola",
+        "food": "Braciola",
         "description": "Stuffed meat rolls cooked in tomato sauce",
         "price": 900,
         "restaurant_id": 14,
@@ -452,7 +452,7 @@
       },
       {
         "id": 35,
-        "name": "Ribollita",
+        "food": "Ribollita",
         "description": "Tuscan vegetable and bread soup",
         "price": 500,
         "restaurant_id": 15,
@@ -461,7 +461,7 @@
       },
       {
         "id": 36,
-        "name": "Saltimbocca alla Romana",
+        "food": "Saltimbocca alla Romana",
         "description": "Roman-style veal with prosciutto and sage",
         "price": 850,
         "restaurant_id": 16,
@@ -470,7 +470,7 @@
       },
       {
         "id": 37,
-        "name": "Frittata",
+        "food": "Frittata",
         "description": "Italian omelette with various fillings",
         "price": 600,
         "restaurant_id": 17,
@@ -479,7 +479,7 @@
       },
       {
         "id": 38,
-        "name": "Stracciatella Soup",
+        "food": "Stracciatella Soup",
         "description": "Egg drop soup with parmesan and spinach",
         "price": 450,
         "restaurant_id": 18,
@@ -488,7 +488,7 @@
       },
       {
         "id": 39,
-        "name": "Acquacotta",
+        "food": "Acquacotta",
         "description": "Vegetable soup from the Tuscany region",
         "price": 500,
         "restaurant_id": 19,
@@ -497,7 +497,7 @@
       },
       {
         "id": 40,
-        "name": "Pasta Puttanesca",
+        "food": "Pasta Puttanesca",
         "description": "Pasta with tomatoes, olives, capers, and anchovies",
         "price": 700,
         "restaurant_id": 20,
@@ -506,7 +506,7 @@
       },
       {
         "id": 41,
-        "name": "Injera",
+        "food": "Injera",
         "description": "Spongy flatbread",
         "price": 200,
         "restaurant_id": 1,
@@ -515,7 +515,7 @@
       },
       {
         "id": 42,
-        "name": "Doro Wat",
+        "food": "Doro Wat",
         "description": "Chicken stew",
         "price": 200,
         "restaurant_id": 2,
@@ -524,7 +524,7 @@
       },
       {
         "id": 43,
-        "name": "Tibs",
+        "food": "Tibs",
         "description": "Sautéed meat",
         "price": 200,
         "restaurant_id": 3,
@@ -533,7 +533,7 @@
       },
       {
         "id": 44,
-        "name": "Kitfo",
+        "food": "Kitfo",
         "description": "Ethiopian steak tartare",
         "price": 200,
         "restaurant_id": 4,
@@ -542,7 +542,7 @@
       },
       {
         "id": 45,
-        "name": "Shiro",
+        "food": "Shiro",
         "description": "Chickpea stew",
         "price": 200,
         "restaurant_id": 5,
@@ -551,7 +551,7 @@
       },
       {
         "id": 46,
-        "name": "Misir Wat",
+        "food": "Misir Wat",
         "description": "Red lentil stew",
         "price": 200,
         "restaurant_id": 6,
@@ -560,7 +560,7 @@
       },
       {
         "id": 47,
-        "name": "Key Wat",
+        "food": "Key Wat",
         "description": "Spicy beef stew",
         "price": 200,
         "restaurant_id": 7,
@@ -569,7 +569,7 @@
       },
       {
         "id": 48,
-        "name": "Gomen",
+        "food": "Gomen",
         "description": "Collard greens",
         "price": 200,
         "restaurant_id": 8,
@@ -578,7 +578,7 @@
       },
       {
         "id": 49,
-        "name": "Atkilt Wot",
+        "food": "Atkilt Wot",
         "description": "Cabbage and carrots",
         "price": 200,
         "restaurant_id": 9,
@@ -587,7 +587,7 @@
       },
       {
         "id": 50,
-        "name": "Ayib",
+        "food": "Ayib",
         "description": "Fresh cheese",
         "price": 200,
         "restaurant_id": 10,
@@ -596,7 +596,7 @@
       },      
       {
         "id": 51,
-        "name": "Fitfit",
+        "food": "Fitfit",
         "description": "Torn injera with sauce",
         "price": 200,
         "restaurant_id": 11,
@@ -605,7 +605,7 @@
       },
       {
         "id": 52,
-        "name": "Kik Alicha",
+        "food": "Kik Alicha",
         "description": "Yellow split pea stew",
         "price": 200,
         "restaurant_id": 12,
@@ -614,7 +614,7 @@
       },
       {
         "id": 53,
-        "name": "Awaze Tibs",
+        "food": "Awaze Tibs",
         "description": "Spicy meat",
         "price": 200,
         "restaurant_id": 13,
@@ -623,7 +623,7 @@
       },
       {
         "id": 54,
-        "name": "Fosolia",
+        "food": "Fosolia",
         "description": "Green beans and carrots",
         "price": 200,
         "restaurant_id": 14,
@@ -632,7 +632,7 @@
       },
       {
         "id": 55,
-        "name": "Gored Gored",
+        "food": "Gored Gored",
         "description": "Raw meat cubes",
         "price": 200,
         "restaurant_id": 15,
@@ -641,7 +641,7 @@
       },
       {
         "id": 56,
-        "name": "Yetsom Beyaynetu",
+        "food": "Yetsom Beyaynetu",
         "description": "Vegetarian platter",
         "price": 200,
         "restaurant_id": 16,
@@ -650,7 +650,7 @@
       },
       {
         "id": 57,
-        "name": "Genfo",
+        "food": "Genfo",
         "description": "Hot cereal",
         "price": 200,
         "restaurant_id": 17,
@@ -659,7 +659,7 @@
       },
       {
         "id": 58,
-        "name": "Kolo",
+        "food": "Kolo",
         "description": "Roasted barley",
         "price": 200,
         "restaurant_id": 18,
@@ -668,7 +668,7 @@
       },
       {
         "id": 59,
-        "name": "Tikil Gomen",
+        "food": "Tikil Gomen",
         "description": "Cabbage and potatoes",
         "price": 200,
         "restaurant_id": 19,
@@ -677,7 +677,7 @@
       },
       {
         "id": 60,
-        "name": "Dulet",
+        "food": "Dulet",
         "description": "Tripe and liver dish",
         "price": 200,
         "restaurant_id": 20,
@@ -686,7 +686,7 @@
       },      
       {
         "id": 61,
-        "name": "Kocho",
+        "food": "Kocho",
         "description": "Fermented ensete",
         "price": 200,
         "restaurant_id": 1,
@@ -695,7 +695,7 @@
       },
       {
         "id": 62,
-        "name": "Tella",
+        "food": "Tella",
         "description": "Traditional beer",
         "price": 200,
         "restaurant_id": 2,
@@ -704,7 +704,7 @@
       },
       {
         "id": 63,
-        "name": "Chechebsa",
+        "food": "Chechebsa",
         "description": "Spiced flatbread",
         "price": 200,
         "restaurant_id": 3,
@@ -713,7 +713,7 @@
       },
       {
         "id": 64,
-        "name": "Dabo Kolo",
+        "food": "Dabo Kolo",
         "description": "Small baked snacks",
         "price": 200,
         "restaurant_id": 4,
@@ -722,7 +722,7 @@
       },
       {
         "id": 65,
-        "name": "Sega Wat",
+        "food": "Sega Wat",
         "description": "Spicy beef stew",
         "price": 200,
         "restaurant_id": 5,
@@ -731,7 +731,7 @@
       },
       {
         "id": 66,
-        "name": "Ambasha",
+        "food": "Ambasha",
         "description": "Slightly sweet bread",
         "price": 200,
         "restaurant_id": 6,
@@ -740,7 +740,7 @@
       },
       {
         "id": 67,
-        "name": "Mesir Kik Wat",
+        "food": "Mesir Kik Wat",
         "description": "Spicy red lentils",
         "price": 200,
         "restaurant_id": 7,
@@ -749,7 +749,7 @@
       },
       {
         "id": 68,
-        "name": "Asa Tibs",
+        "food": "Asa Tibs",
         "description": "Fried fish",
         "price": 200,
         "restaurant_id": 8,
@@ -758,7 +758,7 @@
       },
       {
         "id": 69,
-        "name": "Timatim Fitfit",
+        "food": "Timatim Fitfit",
         "description": "Tomato salad",
         "price": 200,
         "restaurant_id": 9,
@@ -767,7 +767,7 @@
       },
       {
         "id": 70,
-        "name": "Doro Tibs",
+        "food": "Doro Tibs",
         "description": "Sautéed chicken",
         "price": 200,
         "restaurant_id": 10,
@@ -776,7 +776,7 @@
       },      
       {
         "id": 71,
-        "name": "Gored Gored",
+        "food": "Gored Gored",
         "description": "Ethiopian raw beef",
         "price": 200,
         "restaurant_id": 11,
@@ -785,7 +785,7 @@
       },
       {
         "id": 72,
-        "name": "Minchet Abish",
+        "food": "Minchet Abish",
         "description": "Spiced ground beef",
         "price": 200,
         "restaurant_id": 12,
@@ -794,7 +794,7 @@
       },
       {
         "id": 73,
-        "name": "Yebeg Alicha",
+        "food": "Yebeg Alicha",
         "description": "Mild lamb stew",
         "price": 200,
         "restaurant_id": 13,
@@ -803,7 +803,7 @@
       },
       {
         "id": 74,
-        "name": "Shiro Fitfit",
+        "food": "Shiro Fitfit",
         "description": "Chickpea stew with injera",
         "price": 200,
         "restaurant_id": 14,
@@ -812,7 +812,7 @@
       },
       {
         "id": 75,
-        "name": "Yetsom Beyaynetu",
+        "food": "Yetsom Beyaynetu",
         "description": "Vegetarian combo",
         "price": 200,
         "restaurant_id": 15,
@@ -821,7 +821,7 @@
       },
       {
         "id": 76,
-        "name": "Tegabino Shiro",
+        "food": "Tegabino Shiro",
         "description": "Chickpea porridge",
         "price": 200,
         "restaurant_id": 16,
@@ -830,7 +830,7 @@
       },
       {
         "id": 77,
-        "name": "Yebeg Tibs",
+        "food": "Yebeg Tibs",
         "description": "Sautéed lamb",
         "price": 200,
         "restaurant_id": 17,
@@ -839,7 +839,7 @@
       },
       {
         "id": 78,
-        "name": "Kik Alicha",
+        "food": "Kik Alicha",
         "description": "Yellow split pea stew",
         "price": 200,
         "restaurant_id": 18,
@@ -848,7 +848,7 @@
       },
       {
         "id": 79,
-        "name": "Gomen Be Siga",
+        "food": "Gomen Be Siga",
         "description": "Collard greens with beef",
         "price": 200,
         "restaurant_id": 19,
@@ -857,7 +857,7 @@
       },
       {
         "id": 80,
-        "name": "Atakilt Wat",
+        "food": "Atakilt Wat",
         "description": "Cabbage, potatoes, and carrots",
         "price": 200,
         "restaurant_id": 20,
@@ -866,7 +866,7 @@
       },
       {
         "id": 81,
-        "name": "Tacos",
+        "food": "Tacos",
         "description": "Various types - carne asada, al pastor, etc.",
         "price": 220,
         "restaurant_id": 1,
@@ -875,7 +875,7 @@
       },
       {
         "id": 82,
-        "name": "Guacamole",
+        "food": "Guacamole",
         "description": "Avocado-based dip",
         "price": 150,
         "restaurant_id": 2,
@@ -884,7 +884,7 @@
       },
       {
         "id": 83,
-        "name": "Enchiladas",
+        "food": "Enchiladas",
         "description": "Tortillas rolled around a filling, covered with sauce",
         "price": 300,
         "restaurant_id": 3,
@@ -893,7 +893,7 @@
       },
       {
         "id": 84,
-        "name": "Burritos",
+        "food": "Burritos",
         "description": "Large flour tortillas with various fillings",
         "price": 250,
         "restaurant_id": 4,
@@ -902,7 +902,7 @@
       },
       {
         "id": 85,
-        "name": "Quesadillas",
+        "food": "Quesadillas",
         "description": "Folded tortillas with cheese and other fillings",
         "price": 180,
         "restaurant_id": 5,
@@ -911,7 +911,7 @@
       },
       {
         "id": 86,
-        "name": "Salsa",
+        "food": "Salsa",
         "description": "Various types - salsa verde, salsa roja, etc.",
         "price": 70,
         "restaurant_id": 6,
@@ -920,7 +920,7 @@
       },
       {
         "id": 87,
-        "name": "Chilaquiles",
+        "food": "Chilaquiles",
         "description": "Corn tortillas with salsa, cheese, and toppings",
         "price": 200,
         "restaurant_id": 7,
@@ -929,7 +929,7 @@
       },
       {
         "id": 88,
-        "name": "Tamales",
+        "food": "Tamales",
         "description": "Steamed corn dough with filling",
         "price": 170,
         "restaurant_id": 8,
@@ -938,7 +938,7 @@
       },
       {
         "id": 89,
-        "name": "Pozole",
+        "food": "Pozole",
         "description": "Traditional soup with hominy and meat",
         "price": 250,
         "restaurant_id": 9,
@@ -947,7 +947,7 @@
       },
       {
         "id": 90,
-        "name": "Ceviche",
+        "food": "Ceviche",
         "description": "Citrus-marinated seafood salad",
         "price": 280,
         "restaurant_id": 10,
@@ -956,7 +956,7 @@
       },
       {
         "id": 91,
-        "name": "Mole",
+        "food": "Mole",
         "description": "Various types - mole poblano, mole negro, etc.",
         "price": 300,
         "restaurant_id": 11,
@@ -965,7 +965,7 @@
       },
       {
         "id": 92,
-        "name": "Chiles en Nogada",
+        "food": "Chiles en Nogada",
         "description": "Stuffed poblano chiles with walnut sauce",
         "price": 280,
         "restaurant_id": 12,
@@ -974,7 +974,7 @@
       },
       {
         "id": 93,
-        "name": "Sopes",
+        "food": "Sopes",
         "description": "Thick tortillas with toppings",
         "price": 190,
         "restaurant_id": 13,
@@ -983,7 +983,7 @@
       },
       {
         "id": 94,
-        "name": "Churros",
+        "food": "Churros",
         "description": "Fried dough pastries",
         "price": 120,
         "restaurant_id": 14,
@@ -992,7 +992,7 @@
       },
       {
         "id": 95,
-        "name": "Flautas",
+        "food": "Flautas",
         "description": "Rolled and fried tortillas with filling",
         "price": 210,
         "restaurant_id": 15,
@@ -1001,7 +1001,7 @@
       },
       {
         "id": 96,
-        "name": "Tortas",
+        "food": "Tortas",
         "description": "Mexican sandwiches",
         "price": 240,
         "restaurant_id": 16,
@@ -1010,7 +1010,7 @@
       },
       {
         "id": 97,
-        "name": "Menudo",
+        "food": "Menudo",
         "description": "Tripe soup",
         "price": 270,
         "restaurant_id": 17,
@@ -1019,7 +1019,7 @@
       },
       {
         "id": 98,
-        "name": "Birria",
+        "food": "Birria",
         "description": "Spiced meat stew",
         "price": 280,
         "restaurant_id": 18,
@@ -1028,7 +1028,7 @@
       },
       {
         "id": 99,
-        "name": "Carnitas",
+        "food": "Carnitas",
         "description": "Slow-cooked pork",
         "price": 260,
         "restaurant_id": 19,
@@ -1037,7 +1037,7 @@
       },
       {
         "id": 100,
-        "name": "Cochinita Pibil",
+        "food": "Cochinita Pibil",
         "description": "Yucatan-style slow-roasted pork",
         "price": 290,
         "restaurant_id": 20,
@@ -1046,7 +1046,7 @@
       },
       {
         "id": 101,
-        "name": "Camarones al Ajillo",
+        "food": "Camarones al Ajillo",
         "description": "Garlic shrimp",
         "price": 320,
         "restaurant_id": 1,
@@ -1055,7 +1055,7 @@
       },
       {
         "id": 102,
-        "name": "Tlayudas",
+        "food": "Tlayudas",
         "description": "Large tortillas with toppings",
         "price": 240,
         "restaurant_id": 2,
@@ -1064,7 +1064,7 @@
       },
       {
         "id": 103,
-        "name": "Huachinango a la Veracruzana",
+        "food": "Huachinango a la Veracruzana",
         "description": "Veracruz-style red snapper",
         "price": 350,
         "restaurant_id": 3,
@@ -1073,7 +1073,7 @@
       },
       {
         "id": 104,
-        "name": "Queso Fundido",
+        "food": "Queso Fundido",
         "description": "Melted cheese dish",
         "price": 260,
         "restaurant_id": 4,
@@ -1082,7 +1082,7 @@
       },
       {
         "id": 105,
-        "name": "Caldo de Res",
+        "food": "Caldo de Res",
         "description": "Beef soup",
         "price": 280,
         "restaurant_id": 5,
@@ -1091,7 +1091,7 @@
       },
       {
         "id": 106,
-        "name": "Tostadas",
+        "food": "Tostadas",
         "description": "Fried tortillas with toppings",
         "price": 190,
         "restaurant_id": 6,
@@ -1100,7 +1100,7 @@
       },
       {
         "id": 107,
-        "name": "Gorditas",
+        "food": "Gorditas",
         "description": "Thick stuffed tortillas",
         "price": 210,
         "restaurant_id": 7,
@@ -1109,7 +1109,7 @@
       },
       {
         "id": 108,
-        "name": "Pambazos",
+        "food": "Pambazos",
         "description": "Mexican sandwiches dipped in chili sauce",
         "price": 220,
         "restaurant_id": 8,
@@ -1118,7 +1118,7 @@
       },
       {
         "id": 109,
-        "name": "Papadzules",
+        "food": "Papadzules",
         "description": "Yucatecan dish",
         "price": 260,
         "restaurant_id": 9,
@@ -1127,7 +1127,7 @@
       },
       {
         "id": 110,
-        "name": "Empanadas",
+        "food": "Empanadas",
         "description": "Fried pastry filled with meat or sweet fillings",
         "price": 200,
         "restaurant_id": 10,
@@ -1136,7 +1136,7 @@
       },
       {
         "id": 111,
-        "name": "Chiles Rellenos",
+        "food": "Chiles Rellenos",
         "description": "Stuffed poblano peppers",
         "price": 280,
         "restaurant_id": 11,
@@ -1145,7 +1145,7 @@
       },
       {
         "id": 112,
-        "name": "Capirotada",
+        "food": "Capirotada",
         "description": "Mexican bread pudding",
         "price": 180,
         "restaurant_id": 12,
@@ -1154,7 +1154,7 @@
       },
       {
         "id": 113,
-        "name": "Picadillo",
+        "food": "Picadillo",
         "description": "Ground meat dish with vegetables and spices",
         "price": 260,
         "restaurant_id": 13,
@@ -1163,7 +1163,7 @@
       },
       {
         "id": 114,
-        "name": "Agua Fresca",
+        "food": "Agua Fresca",
         "description": "Various fruit-infused beverages",
         "price": 120,
         "restaurant_id": 14,
@@ -1172,7 +1172,7 @@
       },
       {
         "id": 115,
-        "name": "Camotes",
+        "food": "Camotes",
         "description": "Candied sweet potatoes",
         "price": 90,
         "restaurant_id": 15,
@@ -1181,7 +1181,7 @@
       },
       {
         "id": 116,
-        "name": "Coctel de Camarones",
+        "food": "Coctel de Camarones",
         "description": "Mexican shrimp cocktail",
         "price": 300,
         "restaurant_id": 16,
@@ -1190,7 +1190,7 @@
       },
       {
         "id": 117,
-        "name": "Atole",
+        "food": "Atole",
         "description": "Traditional hot drink made from masa",
         "price": 150,
         "restaurant_id": 17,
@@ -1199,7 +1199,7 @@
       },
       {
         "id": 118,
-        "name": "Tinga de Pollo",
+        "food": "Tinga de Pollo",
         "description": "Shredded chicken in chipotle sauce",
         "price": 260,
         "restaurant_id": 18,
@@ -1208,7 +1208,7 @@
       },
       {
         "id": 119,
-        "name": "Cochinita Pibil Tacos",
+        "food": "Cochinita Pibil Tacos",
         "description": "Tacos with Yucatan-style slow-roasted pork",
         "price": 280,
         "restaurant_id": 19,
@@ -1217,7 +1217,7 @@
       },
       {
         "id": 120,
-        "name": "Elotes",
+        "food": "Elotes",
         "description": "Mexican street corn",
         "price": 150,
         "restaurant_id": 20,
@@ -1226,7 +1226,7 @@
       },
       {
         "id": 121,
-        "name": "Ugali",
+        "food": "Ugali",
         "description": "Maize porridge",
         "price": 150,
         "restaurant_id": 1,
@@ -1235,7 +1235,7 @@
       },
       {
         "id": 122,
-        "name": "Nyama Choma",
+        "food": "Nyama Choma",
         "description": "Grilled meat",
         "price": 300,
         "restaurant_id": 2,
@@ -1244,7 +1244,7 @@
       },
       {
         "id": 123,
-        "name": "Sukuma Wiki",
+        "food": "Sukuma Wiki",
         "description": "Collard greens",
         "price": 100,
         "restaurant_id": 3,
@@ -1253,7 +1253,7 @@
       },
       {
         "id": 124,
-        "name": "Githeri",
+        "food": "Githeri",
         "description": "Maize and bean stew",
         "price": 180,
         "restaurant_id": 4,
@@ -1262,7 +1262,7 @@
       },
       {
         "id": 125,
-        "name": "Chapati",
+        "food": "Chapati",
         "description": "Flatbread",
         "price": 50,
         "restaurant_id": 5,
@@ -1271,7 +1271,7 @@
       },
       {
         "id": 126,
-        "name": "Mandazi",
+        "food": "Mandazi",
         "description": "African donuts",
         "price": 60,
         "restaurant_id": 6,
@@ -1280,7 +1280,7 @@
       },
       {
         "id": 127,
-        "name": "Pilau",
+        "food": "Pilau",
         "description": "Spiced rice",
         "price": 250,
         "restaurant_id": 7,
@@ -1289,7 +1289,7 @@
       },
       {
         "id": 128,
-        "name": "Samosa",
+        "food": "Samosa",
         "description": "Stuffed pastry",
         "price": 40,
         "restaurant_id": 8,
@@ -1298,7 +1298,7 @@
       },
       {
         "id": 129,
-        "name": "Matoke",
+        "food": "Matoke",
         "description": "Green banana stew",
         "price": 180,
         "restaurant_id": 9,
@@ -1307,7 +1307,7 @@
       },
       {
         "id": 130,
-        "name": "Irio",
+        "food": "Irio",
         "description": "Mashed potatoes, peas, and corn",
         "price": 200,
         "restaurant_id": 10,
@@ -1316,7 +1316,7 @@
       },
       {
         "id": 131,
-        "name": "Kenyan Pilipili",
+        "food": "Kenyan Pilipili",
         "description": "Hot sauce",
         "price": 30,
         "restaurant_id": 11,
@@ -1325,7 +1325,7 @@
       },
       {
         "id": 132,
-        "name": "Wali wa Nazi",
+        "food": "Wali wa Nazi",
         "description": "Coconut rice",
         "price": 180,
         "restaurant_id": 12,
@@ -1334,7 +1334,7 @@
       },
       {
         "id": 133,
-        "name": "Maharagwe",
+        "food": "Maharagwe",
         "description": "Bean stew",
         "price": 160,
         "restaurant_id": 13,
@@ -1343,7 +1343,7 @@
       },
       {
         "id": 134,
-        "name": "Kachumbari",
+        "food": "Kachumbari",
         "description": "Tomato and onion salad",
         "price": 50,
         "restaurant_id": 14,
@@ -1352,7 +1352,7 @@
       },
       {
         "id": 135,
-        "name": "Roast Maize",
+        "food": "Roast Maize",
         "description": "Grilled corn on the cob",
         "price": 40,
         "restaurant_id": 15,
@@ -1361,7 +1361,7 @@
       },
       {
         "id": 136,
-        "name": "Mukimo",
+        "food": "Mukimo",
         "description": "Mashed potatoes, corn, peas, and greens",
         "price": 180,
         "restaurant_id": 16,
@@ -1370,7 +1370,7 @@
       },
       {
         "id": 137,
-        "name": "Omena",
+        "food": "Omena",
         "description": "Small fish, often dried and fried",
         "price": 120,
         "restaurant_id": 17,
@@ -1379,7 +1379,7 @@
       },
       {
         "id": 138,
-        "name": "Biryani",
+        "food": "Biryani",
         "description": "Spiced rice with meat or vegetables",
         "price": 250,
         "restaurant_id": 18,
@@ -1388,7 +1388,7 @@
       },
       {
         "id": 139,
-        "name": "Bhajia",
+        "food": "Bhajia",
         "description": "Deep-fried potato fritters",
         "price": 70,
         "restaurant_id": 19,
@@ -1397,7 +1397,7 @@
       },
       {
         "id": 140,
-        "name": "Fish Stew",
+        "food": "Fish Stew",
         "description": "with Tilapia or Nile Perch",
         "price": 280,
         "restaurant_id": 20,
@@ -1406,7 +1406,7 @@
       },
       {
         "id": 141,
-        "name": "Mursik",
+        "food": "Mursik",
         "description": "Fermented milk",
         "price": 90,
         "restaurant_id": 1,
@@ -1415,7 +1415,7 @@
       },
       {
         "id": 142,
-        "name": "Nyoyo",
+        "food": "Nyoyo",
         "description": "Tripe stew",
         "price": 200,
         "restaurant_id": 2,
@@ -1424,7 +1424,7 @@
       },
       {
         "id": 143,
-        "name": "Wali wa Maharage",
+        "food": "Wali wa Maharage",
         "description": "Rice and beans",
         "price": 180,
         "restaurant_id": 3,
@@ -1433,7 +1433,7 @@
       },
       {
         "id": 144,
-        "name": "Chai ya Tangawizi",
+        "food": "Chai ya Tangawizi",
         "description": "Ginger tea",
         "price": 60,
         "restaurant_id": 4,
@@ -1442,7 +1442,7 @@
       },
       {
         "id": 145,
-        "name": "Kenyan Beef Stew",
+        "food": "Kenyan Beef Stew",
         "description": "Slow-cooked beef in tomato-based sauce",
         "price": 280,
         "restaurant_id": 5,
@@ -1451,7 +1451,7 @@
       },
       {
         "id": 146,
-        "name": "Fried Tilapia",
+        "food": "Fried Tilapia",
         "description": "Fried whole tilapia fish",
         "price": 230,
         "restaurant_id": 6,
@@ -1460,7 +1460,7 @@
       },
       {
         "id": 147,
-        "name": "Chicken Stew",
+        "food": "Chicken Stew",
         "description": "Chicken cooked in a flavorful stew",
         "price": 220,
         "restaurant_id": 7,
@@ -1469,7 +1469,7 @@
       },
       {
         "id": 148,
-        "name": "Mahamri",
+        "food": "Mahamri",
         "description": "Sweet fried bread",
         "price": 60,
         "restaurant_id": 8,
@@ -1478,7 +1478,7 @@
       },
       {
         "id": 149,
-        "name": "Mkate wa Ufuta",
+        "food": "Mkate wa Ufuta",
         "description": "Sesame seed bread",
         "price": 70,
         "restaurant_id": 9,
@@ -1487,7 +1487,7 @@
       },
       {
         "id": 150,
-        "name": "Mukimo na Nyama",
+        "food": "Mukimo na Nyama",
         "description": "Mashed potatoes with meat",
         "price": 250,
         "restaurant_id": 10,
@@ -1496,7 +1496,7 @@
       },
       {
         "id": 151,
-        "name": "Kuku Paka",
+        "food": "Kuku Paka",
         "description": "Chicken in coconut curry",
         "price": 280,
         "restaurant_id": 11,
@@ -1505,7 +1505,7 @@
       },
       {
         "id": 152,
-        "name": "Sukuma Ndiyo",
+        "food": "Sukuma Ndiyo",
         "description": "Collard greens with peanut sauce",
         "price": 150,
         "restaurant_id": 12,
@@ -1514,7 +1514,7 @@
       },
       {
         "id": 153,
-        "name": "Pilipili ya Kukaanga",
+        "food": "Pilipili ya Kukaanga",
         "description": "Fried chili sauce",
         "price": 40,
         "restaurant_id": 13,
@@ -1523,7 +1523,7 @@
       },
       {
         "id": 154,
-        "name": "Ugali and Fish",
+        "food": "Ugali and Fish",
         "description": "Ugali served with fish",
         "price": 280,
         "restaurant_id": 14,
@@ -1532,7 +1532,7 @@
       },
       {
         "id": 155,
-        "name": "Githeri and Fried Chicken",
+        "food": "Githeri and Fried Chicken",
         "description": "Githeri served with fried chicken",
         "price": 300,
         "restaurant_id": 15,
@@ -1541,7 +1541,7 @@
       },
       {
         "id": 156,
-        "name": "Mutura",
+        "food": "Mutura",
         "description": "Kenyan sausage",
         "price": 120,
         "restaurant_id": 16,
@@ -1550,7 +1550,7 @@
       },
       {
         "id": 157,
-        "name": "Irio and Fried Tilapia",
+        "food": "Irio and Fried Tilapia",
         "description": "Irio served with fried tilapia",
         "price": 300,
         "restaurant_id": 17,
@@ -1559,7 +1559,7 @@
       },
       {
         "id": 158,
-        "name": "Kenyan Biriani",
+        "food": "Kenyan Biriani",
         "description": "Kenyan-style biryani",
         "price": 260,
         "restaurant_id": 18,
@@ -1568,7 +1568,7 @@
       },
       {
         "id": 159,
-        "name": "Mbaazi",
+        "food": "Mbaazi",
         "description": "Pigeon peas in coconut sauce",
         "price": 160,
         "restaurant_id": 19,
@@ -1577,7 +1577,7 @@
       },
       {
         "id": 160,
-        "name": "Uji",
+        "food": "Uji",
         "description": "Porridge made from millet or maize flour",
         "price": 70,
         "restaurant_id": 20,
