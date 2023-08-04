@@ -150,7 +150,7 @@
         "description": "Traditional Italian pizza with tomato, mozzarella, and basil",
         "price": 1000,
         "restaurant_id": 1,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "pizza_margherita.jpg"
       },
       {
@@ -159,7 +159,7 @@
         "description": "Spaghetti with egg, cheese, guanciale, and black pepper",
         "price": 850,
         "restaurant_id": 2,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "pasta_carbonara.jpg"
       },
       {
@@ -168,7 +168,7 @@
         "description": "Layered pasta dish with meat sauce and cheese",
         "price": 1200,
         "restaurant_id": 3,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "lasagna.jpg"
       },
       {
@@ -177,7 +177,7 @@
         "description": "Creamy rice dish cooked with broth and various ingredients",
         "price": 950,
         "restaurant_id": 4,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "risotto.jpg"
       },
       {
@@ -186,7 +186,7 @@
         "description": "Italian sandwiches with various fillings",
         "price": 750,
         "restaurant_id": 5,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "panini.jpg"
       },
       {
@@ -195,7 +195,7 @@
         "description": "Italian-style ice cream with various flavors",
         "price": 500,
         "restaurant_id": 6,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "gelato.jpg"
       },
       {
@@ -204,7 +204,7 @@
         "description": "Classic Italian dessert made with ladyfingers, coffee, and mascarpone",
         "price": 650,
         "restaurant_id": 7,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "tiramisu.jpg"
       },
       {
@@ -213,7 +213,7 @@
         "description": "Toasted bread topped with tomatoes, garlic, and olive oil",
         "price": 400,
         "restaurant_id": 8,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "bruschetta.jpg"
       },
       {
@@ -222,7 +222,7 @@
         "description": "Braised veal shanks with vegetables and gremolata",
         "price": 1200,
         "restaurant_id": 9,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "osso_bucco.jpg"
       },
       {
@@ -231,7 +231,7 @@
         "description": "Stuffed pasta pockets with various fillings",
         "price": 900,
         "restaurant_id": 10,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "ravioli.jpg"
       },
       {
@@ -240,7 +240,7 @@
         "description": "Italian pastry filled with sweet ricotta cream",
         "price": 550,
         "restaurant_id": 11,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "cannoli.jpg"
       },
       {
@@ -249,7 +249,7 @@
         "description": "Thinly sliced dry-cured ham with ripe cantaloupe",
         "price": 800,
         "restaurant_id": 12,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "prosciutto_melon.jpg"
       },
       {
@@ -258,7 +258,7 @@
         "description": "Soft dough dumplings typically made with potatoes and flour",
         "price": 700,
         "restaurant_id": 13,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "gnocchi.jpg"
       },
       {
@@ -267,7 +267,7 @@
         "description": "Spaghetti with rich meat sauce",
         "price": 850,
         "restaurant_id": 14,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "spaghetti_bolognese.jpg"
       },
       {
@@ -276,7 +276,7 @@
         "description": "Flat oven-baked bread topped with herbs and olive oil",
         "price": 500,
         "restaurant_id": 15,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "focaccia.jpg"
       },
       {
@@ -285,7 +285,7 @@
         "description": "Creamy Italian dessert with sweetened cream and gelatin",
         "price": 550,
         "restaurant_id": 16,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "panna_cotta.jpg"
       },
       {
@@ -294,7 +294,7 @@
         "description": "Fresh salad with tomatoes, mozzarella, basil, and olive oil",
         "price": 600,
         "restaurant_id": 17,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "caprese_salad.jpg"
       },
       {
@@ -303,7 +303,7 @@
         "description": "Fried rice balls typically stuffed with cheese or ragù",
         "price": 500,
         "restaurant_id": 18,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "arancini.jpg"
       },
       {
@@ -312,7 +312,7 @@
         "description": "Hearty vegetable soup with pasta or rice",
         "price": 450,
         "restaurant_id": 19,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "minestrone_soup.jpg"
       },
       {
@@ -321,7 +321,7 @@
         "description": "Pasta with a sauce made from basil, pine nuts, and cheese",
         "price": 750,
         "restaurant_id": 20,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "pesto_pasta.jpg"
       },
       {
@@ -330,7 +330,7 @@
         "description": "Cornmeal dish served as a creamy porridge or solidified and sliced",
         "price": 550,
         "restaurant_id": 1,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "polenta.jpg"
       },
       {
@@ -339,7 +339,7 @@
         "description": "Thin veal cutlets with prosciutto and sage",
         "price": 850,
         "restaurant_id": 2,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "saltimbocca.jpg"
       },
       {
@@ -348,7 +348,7 @@
         "description": "Slow-roasted, seasoned pork belly or loin",
         "price": 900,
         "restaurant_id": 3,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "porchetta.jpg"
       },
       {
@@ -357,7 +357,7 @@
         "description": "Braised veal shanks with gremolata, served with saffron risotto",
         "price": 1200,
         "restaurant_id": 4,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "ossobuco_alla_milanese.jpg"
       },
       {
@@ -366,7 +366,7 @@
         "description": "Ring-shaped stuffed pasta usually served in broth or cream sauce",
         "price": 700,
         "restaurant_id": 5,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "tortellini.jpg"
       },
       {
@@ -375,7 +375,7 @@
         "description": "Tomato-based pasta sauce with guanciale or bacon",
         "price": 800,
         "restaurant_id": 6,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "amatriciana_sauce.jpg"
       },
       {
@@ -384,7 +384,7 @@
         "description": "Spaghetti with Pecorino Romano cheese and black pepper",
         "price": 750,
         "restaurant_id": 7,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "cacio_e_pepe.jpg"
       },
       {
@@ -393,7 +393,7 @@
         "description": "Pasta similar to linguine with basil pesto",
         "price": 700,
         "restaurant_id": 8,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "trenette_al_pesto.jpg"
       },
       {
@@ -402,7 +402,7 @@
         "description": "Chilled veal with tuna and caper sauce",
         "price": 1100,
         "restaurant_id": 9,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "vitello_tonnato.jpg"
       },
       {
@@ -411,7 +411,7 @@
         "description": "Ribbon pasta with traditional Bolognese sauce",
         "price": 850,
         "restaurant_id": 10,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "tagliatelle_bolognese.jpg"
       },
       {
@@ -420,7 +420,7 @@
         "description": "Savory chickpea pancake",
         "price": 400,
         "restaurant_id": 11,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "farinata.jpg"
       },
       {
@@ -429,7 +429,7 @@
         "description": "Italian-American fish stew with various seafood",
         "price": 1000,
         "restaurant_id": 12,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "cioppino.jpg"
       },
       {
@@ -438,7 +438,7 @@
         "description": "Sicilian sponge cake with ricotta and candied fruit",
         "price": 700,
         "restaurant_id": 13,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "cassata_siciliana.jpg"
       },
       {
@@ -447,7 +447,7 @@
         "description": "Stuffed meat rolls cooked in tomato sauce",
         "price": 900,
         "restaurant_id": 14,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "braciola.jpg"
       },
       {
@@ -456,7 +456,7 @@
         "description": "Tuscan vegetable and bread soup",
         "price": 500,
         "restaurant_id": 15,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "ribollita.jpg"
       },
       {
@@ -465,7 +465,7 @@
         "description": "Roman-style veal with prosciutto and sage",
         "price": 850,
         "restaurant_id": 16,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "saltimbocca_alla_romana.jpg"
       },
       {
@@ -474,7 +474,7 @@
         "description": "Italian omelette with various fillings",
         "price": 600,
         "restaurant_id": 17,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "frittata.jpg"
       },
       {
@@ -483,7 +483,7 @@
         "description": "Egg drop soup with parmesan and spinach",
         "price": 450,
         "restaurant_id": 18,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "stracciatella_soup.jpg"
       },
       {
@@ -492,7 +492,7 @@
         "description": "Vegetable soup from the Tuscany region",
         "price": 500,
         "restaurant_id": 19,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "acquacotta.jpg"
       },
       {
@@ -501,7 +501,7 @@
         "description": "Pasta with tomatoes, olives, capers, and anchovies",
         "price": 700,
         "restaurant_id": 20,
-        "origin": "Italy",
+        "origin": "Italian",
         "image": "pasta_puttanesca.jpg"
       },
       {
@@ -510,7 +510,7 @@
         "description": "Spongy flatbread",
         "price": 200,
         "restaurant_id": 1,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/injera.jpg"
       },
       {
@@ -519,7 +519,7 @@
         "description": "Chicken stew",
         "price": 200,
         "restaurant_id": 2,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/doro-wat.jpg"
       },
       {
@@ -528,7 +528,7 @@
         "description": "Sautéed meat",
         "price": 200,
         "restaurant_id": 3,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/tibs.jpg"
       },
       {
@@ -537,7 +537,7 @@
         "description": "Ethiopian steak tartare",
         "price": 200,
         "restaurant_id": 4,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/kitfo.jpg"
       },
       {
@@ -546,7 +546,7 @@
         "description": "Chickpea stew",
         "price": 200,
         "restaurant_id": 5,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/shiro.jpg"
       },
       {
@@ -555,7 +555,7 @@
         "description": "Red lentil stew",
         "price": 200,
         "restaurant_id": 6,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/misir-wat.jpg"
       },
       {
@@ -564,7 +564,7 @@
         "description": "Spicy beef stew",
         "price": 200,
         "restaurant_id": 7,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/key-wat.jpg"
       },
       {
@@ -573,7 +573,7 @@
         "description": "Collard greens",
         "price": 200,
         "restaurant_id": 8,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/gomen.jpg"
       },
       {
@@ -582,7 +582,7 @@
         "description": "Cabbage and carrots",
         "price": 200,
         "restaurant_id": 9,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/atkilt-wot.jpg"
       },
       {
@@ -591,7 +591,7 @@
         "description": "Fresh cheese",
         "price": 200,
         "restaurant_id": 10,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/ayib.jpg"
       },      
       {
@@ -609,7 +609,7 @@
         "description": "Yellow split pea stew",
         "price": 200,
         "restaurant_id": 12,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/kik-alicha.jpg"
       },
       {
@@ -618,7 +618,7 @@
         "description": "Spicy meat",
         "price": 200,
         "restaurant_id": 13,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/awaze-tibs.jpg"
       },
       {
@@ -627,7 +627,7 @@
         "description": "Green beans and carrots",
         "price": 200,
         "restaurant_id": 14,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/fosolia.jpg"
       },
       {
@@ -636,7 +636,7 @@
         "description": "Raw meat cubes",
         "price": 200,
         "restaurant_id": 15,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/gored-gored.jpg"
       },
       {
@@ -645,7 +645,7 @@
         "description": "Vegetarian platter",
         "price": 200,
         "restaurant_id": 16,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/yetsom-beyaynetu.jpg"
       },
       {
@@ -654,7 +654,7 @@
         "description": "Hot cereal",
         "price": 200,
         "restaurant_id": 17,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/genfo.jpg"
       },
       {
@@ -663,7 +663,7 @@
         "description": "Roasted barley",
         "price": 200,
         "restaurant_id": 18,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/kolo.jpg"
       },
       {
@@ -672,7 +672,7 @@
         "description": "Cabbage and potatoes",
         "price": 200,
         "restaurant_id": 19,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/tikil-gomen.jpg"
       },
       {
@@ -681,7 +681,7 @@
         "description": "Tripe and liver dish",
         "price": 200,
         "restaurant_id": 20,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/dulet.jpg"
       },      
       {
@@ -690,7 +690,7 @@
         "description": "Fermented ensete",
         "price": 200,
         "restaurant_id": 1,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/kocho.jpg"
       },
       {
@@ -699,7 +699,7 @@
         "description": "Traditional beer",
         "price": 200,
         "restaurant_id": 2,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/tella.jpg"
       },
       {
@@ -708,7 +708,7 @@
         "description": "Spiced flatbread",
         "price": 200,
         "restaurant_id": 3,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/chechebsa.jpg"
       },
       {
@@ -717,7 +717,7 @@
         "description": "Small baked snacks",
         "price": 200,
         "restaurant_id": 4,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/dabo-kolo.jpg"
       },
       {
@@ -726,7 +726,7 @@
         "description": "Spicy beef stew",
         "price": 200,
         "restaurant_id": 5,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/sega-wat.jpg"
       },
       {
@@ -735,7 +735,7 @@
         "description": "Slightly sweet bread",
         "price": 200,
         "restaurant_id": 6,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/ambasha.jpg"
       },
       {
@@ -744,7 +744,7 @@
         "description": "Spicy red lentils",
         "price": 200,
         "restaurant_id": 7,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/mesir-kik-wat.jpg"
       },
       {
@@ -753,7 +753,7 @@
         "description": "Fried fish",
         "price": 200,
         "restaurant_id": 8,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/asa-tibs.jpg"
       },
       {
@@ -762,7 +762,7 @@
         "description": "Tomato salad",
         "price": 200,
         "restaurant_id": 9,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/timatim-fitfit.jpg"
       },
       {
@@ -771,7 +771,7 @@
         "description": "Sautéed chicken",
         "price": 200,
         "restaurant_id": 10,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/doro-tibs.jpg"
       },      
       {
@@ -780,7 +780,7 @@
         "description": "Ethiopian raw beef",
         "price": 200,
         "restaurant_id": 11,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/gored-gored-2.jpg"
       },
       {
@@ -789,7 +789,7 @@
         "description": "Spiced ground beef",
         "price": 200,
         "restaurant_id": 12,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/minchet-abish.jpg"
       },
       {
@@ -798,7 +798,7 @@
         "description": "Mild lamb stew",
         "price": 200,
         "restaurant_id": 13,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/yebeg-alicha.jpg"
       },
       {
@@ -807,7 +807,7 @@
         "description": "Chickpea stew with injera",
         "price": 200,
         "restaurant_id": 14,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/shiro-fitfit.jpg"
       },
       {
@@ -816,7 +816,7 @@
         "description": "Vegetarian combo",
         "price": 200,
         "restaurant_id": 15,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/yetsom-beyaynetu-2.jpg"
       },
       {
@@ -825,7 +825,7 @@
         "description": "Chickpea porridge",
         "price": 200,
         "restaurant_id": 16,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/tegabino-shiro.jpg"
       },
       {
@@ -834,7 +834,7 @@
         "description": "Sautéed lamb",
         "price": 200,
         "restaurant_id": 17,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/yebeg-tibs.jpg"
       },
       {
@@ -843,7 +843,7 @@
         "description": "Yellow split pea stew",
         "price": 200,
         "restaurant_id": 18,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/kik-alicha-2.jpg"
       },
       {
@@ -852,7 +852,7 @@
         "description": "Collard greens with beef",
         "price": 200,
         "restaurant_id": 19,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/gomen-be-siga.jpg"
       },
       {
@@ -861,7 +861,7 @@
         "description": "Cabbage, potatoes, and carrots",
         "price": 200,
         "restaurant_id": 20,
-        "origin": "Ethiopia",
+        "origin": "Ethiopian",
         "image": "https://example.com/atakilt-wat.jpg"
       },
       {
@@ -870,7 +870,7 @@
         "description": "Various types - carne asada, al pastor, etc.",
         "price": 220,
         "restaurant_id": 1,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/tacos.jpg"
       },
       {
@@ -879,7 +879,7 @@
         "description": "Avocado-based dip",
         "price": 150,
         "restaurant_id": 2,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/guacamole.jpg"
       },
       {
@@ -888,7 +888,7 @@
         "description": "Tortillas rolled around a filling, covered with sauce",
         "price": 300,
         "restaurant_id": 3,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/enchiladas.jpg"
       },
       {
@@ -897,7 +897,7 @@
         "description": "Large flour tortillas with various fillings",
         "price": 250,
         "restaurant_id": 4,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/burritos.jpg"
       },
       {
@@ -906,7 +906,7 @@
         "description": "Folded tortillas with cheese and other fillings",
         "price": 180,
         "restaurant_id": 5,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/quesadillas.jpg"
       },
       {
@@ -915,7 +915,7 @@
         "description": "Various types - salsa verde, salsa roja, etc.",
         "price": 70,
         "restaurant_id": 6,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/salsa.jpg"
       },
       {
@@ -924,7 +924,7 @@
         "description": "Corn tortillas with salsa, cheese, and toppings",
         "price": 200,
         "restaurant_id": 7,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/chilaquiles.jpg"
       },
       {
@@ -933,7 +933,7 @@
         "description": "Steamed corn dough with filling",
         "price": 170,
         "restaurant_id": 8,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/tamales.jpg"
       },
       {
@@ -942,7 +942,7 @@
         "description": "Traditional soup with hominy and meat",
         "price": 250,
         "restaurant_id": 9,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/pozole.jpg"
       },
       {
@@ -951,7 +951,7 @@
         "description": "Citrus-marinated seafood salad",
         "price": 280,
         "restaurant_id": 10,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/ceviche.jpg"
       },
       {
@@ -960,7 +960,7 @@
         "description": "Various types - mole poblano, mole negro, etc.",
         "price": 300,
         "restaurant_id": 11,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/mole.jpg"
       },
       {
@@ -969,7 +969,7 @@
         "description": "Stuffed poblano chiles with walnut sauce",
         "price": 280,
         "restaurant_id": 12,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/chiles-en-nogada.jpg"
       },
       {
@@ -978,7 +978,7 @@
         "description": "Thick tortillas with toppings",
         "price": 190,
         "restaurant_id": 13,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/sopes.jpg"
       },
       {
@@ -987,7 +987,7 @@
         "description": "Fried dough pastries",
         "price": 120,
         "restaurant_id": 14,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/churros.jpg"
       },
       {
@@ -996,7 +996,7 @@
         "description": "Rolled and fried tortillas with filling",
         "price": 210,
         "restaurant_id": 15,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/flautas.jpg"
       },
       {
@@ -1005,7 +1005,7 @@
         "description": "Mexican sandwiches",
         "price": 240,
         "restaurant_id": 16,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/tortas.jpg"
       },
       {
@@ -1014,7 +1014,7 @@
         "description": "Tripe soup",
         "price": 270,
         "restaurant_id": 17,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/menudo.jpg"
       },
       {
@@ -1023,7 +1023,7 @@
         "description": "Spiced meat stew",
         "price": 280,
         "restaurant_id": 18,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/birria.jpg"
       },
       {
@@ -1032,7 +1032,7 @@
         "description": "Slow-cooked pork",
         "price": 260,
         "restaurant_id": 19,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://recipetineats.com/wp-content/uploads/2018/05/Pork-Carnitas-1000px.jpg"
       },
       {
@@ -1041,7 +1041,7 @@
         "description": "Yucatan-style slow-roasted pork",
         "price": 290,
         "restaurant_id": 20,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/cochinita-pibil.jpg"
       },
       {
@@ -1050,7 +1050,7 @@
         "description": "Garlic shrimp",
         "price": 320,
         "restaurant_id": 1,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/camarones-al-ajillo.jpg"
       },
       {
@@ -1059,7 +1059,7 @@
         "description": "Large tortillas with toppings",
         "price": 240,
         "restaurant_id": 2,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/tlayudas.jpg"
       },
       {
@@ -1068,7 +1068,7 @@
         "description": "Veracruz-style red snapper",
         "price": 350,
         "restaurant_id": 3,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/huachinango-a-la-veracruzana.jpg"
       },
       {
@@ -1077,7 +1077,7 @@
         "description": "Melted cheese dish",
         "price": 260,
         "restaurant_id": 4,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/queso-fundido.jpg"
       },
       {
@@ -1086,7 +1086,7 @@
         "description": "Beef soup",
         "price": 280,
         "restaurant_id": 5,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/caldo-de-res.jpg"
       },
       {
@@ -1095,7 +1095,7 @@
         "description": "Fried tortillas with toppings",
         "price": 190,
         "restaurant_id": 6,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/tostadas.jpg"
       },
       {
@@ -1104,7 +1104,7 @@
         "description": "Thick stuffed tortillas",
         "price": 210,
         "restaurant_id": 7,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/gorditas.jpg"
       },
       {
@@ -1113,7 +1113,7 @@
         "description": "Mexican sandwiches dipped in chili sauce",
         "price": 220,
         "restaurant_id": 8,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/pambazos.jpg"
       },
       {
@@ -1122,7 +1122,7 @@
         "description": "Yucatecan dish",
         "price": 260,
         "restaurant_id": 9,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/papadzules.jpg"
       },
       {
@@ -1131,7 +1131,7 @@
         "description": "Fried pastry filled with meat or sweet fillings",
         "price": 200,
         "restaurant_id": 10,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/empanadas.jpg"
       },
       {
@@ -1140,7 +1140,7 @@
         "description": "Stuffed poblano peppers",
         "price": 280,
         "restaurant_id": 11,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/chiles-rellenos.jpg"
       },
       {
@@ -1149,7 +1149,7 @@
         "description": "Mexican bread pudding",
         "price": 180,
         "restaurant_id": 12,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/capirotada.jpg"
       },
       {
@@ -1158,7 +1158,7 @@
         "description": "Ground meat dish with vegetables and spices",
         "price": 260,
         "restaurant_id": 13,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/picadillo.jpg"
       },
       {
@@ -1167,7 +1167,7 @@
         "description": "Various fruit-infused beverages",
         "price": 120,
         "restaurant_id": 14,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/agua-fresca.jpg"
       },
       {
@@ -1176,7 +1176,7 @@
         "description": "Candied sweet potatoes",
         "price": 90,
         "restaurant_id": 15,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/camotes.jpg"
       },
       {
@@ -1185,7 +1185,7 @@
         "description": "Mexican shrimp cocktail",
         "price": 300,
         "restaurant_id": 16,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/coctel-de-camarones.jpg"
       },
       {
@@ -1194,7 +1194,7 @@
         "description": "Traditional hot drink made from masa",
         "price": 150,
         "restaurant_id": 17,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/atole.jpg"
       },
       {
@@ -1203,7 +1203,7 @@
         "description": "Shredded chicken in chipotle sauce",
         "price": 260,
         "restaurant_id": 18,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/tinga-de-pollo.jpg"
       },
       {
@@ -1212,7 +1212,7 @@
         "description": "Tacos with Yucatan-style slow-roasted pork",
         "price": 280,
         "restaurant_id": 19,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/cochinita-pibil-tacos.jpg"
       },
       {
@@ -1221,7 +1221,7 @@
         "description": "Mexican street corn",
         "price": 150,
         "restaurant_id": 20,
-        "origin": "Mexico",
+        "origin": "Mexican",
         "image": "https://example.com/elotes.jpg"
       },
       {
@@ -1230,7 +1230,7 @@
         "description": "Maize porridge",
         "price": 150,
         "restaurant_id": 1,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/ugali.jpg"
       },
       {
@@ -1239,7 +1239,7 @@
         "description": "Grilled meat",
         "price": 300,
         "restaurant_id": 2,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/nyama-choma.jpg"
       },
       {
@@ -1248,7 +1248,7 @@
         "description": "Collard greens",
         "price": 100,
         "restaurant_id": 3,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/sukuma-wiki.jpg"
       },
       {
@@ -1257,7 +1257,7 @@
         "description": "Maize and bean stew",
         "price": 180,
         "restaurant_id": 4,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/githeri.jpg"
       },
       {
@@ -1266,7 +1266,7 @@
         "description": "Flatbread",
         "price": 50,
         "restaurant_id": 5,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/chapati.jpg"
       },
       {
@@ -1275,7 +1275,7 @@
         "description": "African donuts",
         "price": 60,
         "restaurant_id": 6,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mandazi.jpg"
       },
       {
@@ -1284,7 +1284,7 @@
         "description": "Spiced rice",
         "price": 250,
         "restaurant_id": 7,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/pilau.jpg"
       },
       {
@@ -1293,7 +1293,7 @@
         "description": "Stuffed pastry",
         "price": 40,
         "restaurant_id": 8,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/samosa.jpg"
       },
       {
@@ -1302,7 +1302,7 @@
         "description": "Green banana stew",
         "price": 180,
         "restaurant_id": 9,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/matoke.jpg"
       },
       {
@@ -1311,7 +1311,7 @@
         "description": "Mashed potatoes, peas, and corn",
         "price": 200,
         "restaurant_id": 10,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/irio.jpg"
       },
       {
@@ -1320,7 +1320,7 @@
         "description": "Hot sauce",
         "price": 30,
         "restaurant_id": 11,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/kenyan-pilipili.jpg"
       },
       {
@@ -1329,7 +1329,7 @@
         "description": "Coconut rice",
         "price": 180,
         "restaurant_id": 12,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/wali-wa-nazi.jpg"
       },
       {
@@ -1338,7 +1338,7 @@
         "description": "Bean stew",
         "price": 160,
         "restaurant_id": 13,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/maharagwe.jpg"
       },
       {
@@ -1347,7 +1347,7 @@
         "description": "Tomato and onion salad",
         "price": 50,
         "restaurant_id": 14,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/kachumbari.jpg"
       },
       {
@@ -1356,7 +1356,7 @@
         "description": "Grilled corn on the cob",
         "price": 40,
         "restaurant_id": 15,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/roast-maize.jpg"
       },
       {
@@ -1365,7 +1365,7 @@
         "description": "Mashed potatoes, corn, peas, and greens",
         "price": 180,
         "restaurant_id": 16,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mukimo.jpg"
       },
       {
@@ -1374,7 +1374,7 @@
         "description": "Small fish, often dried and fried",
         "price": 120,
         "restaurant_id": 17,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/omena.jpg"
       },
       {
@@ -1383,7 +1383,7 @@
         "description": "Spiced rice with meat or vegetables",
         "price": 250,
         "restaurant_id": 18,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/biryani.jpg"
       },
       {
@@ -1392,7 +1392,7 @@
         "description": "Deep-fried potato fritters",
         "price": 70,
         "restaurant_id": 19,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/bhajia.jpg"
       },
       {
@@ -1401,7 +1401,7 @@
         "description": "with Tilapia or Nile Perch",
         "price": 280,
         "restaurant_id": 20,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/fish-stew.jpg"
       },
       {
@@ -1410,7 +1410,7 @@
         "description": "Fermented milk",
         "price": 90,
         "restaurant_id": 1,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mursik.jpg"
       },
       {
@@ -1419,7 +1419,7 @@
         "description": "Tripe stew",
         "price": 200,
         "restaurant_id": 2,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/nyoyo.jpg"
       },
       {
@@ -1428,7 +1428,7 @@
         "description": "Rice and beans",
         "price": 180,
         "restaurant_id": 3,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/wali-wa-maharage.jpg"
       },
       {
@@ -1437,7 +1437,7 @@
         "description": "Ginger tea",
         "price": 60,
         "restaurant_id": 4,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/chai-ya-tangawizi.jpg"
       },
       {
@@ -1446,7 +1446,7 @@
         "description": "Slow-cooked beef in tomato-based sauce",
         "price": 280,
         "restaurant_id": 5,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/kenyan-beef-stew.jpg"
       },
       {
@@ -1455,7 +1455,7 @@
         "description": "Fried whole tilapia fish",
         "price": 230,
         "restaurant_id": 6,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/fried-tilapia.jpg"
       },
       {
@@ -1464,7 +1464,7 @@
         "description": "Chicken cooked in a flavorful stew",
         "price": 220,
         "restaurant_id": 7,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/chicken-stew.jpg"
       },
       {
@@ -1473,7 +1473,7 @@
         "description": "Sweet fried bread",
         "price": 60,
         "restaurant_id": 8,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mahamri.jpg"
       },
       {
@@ -1482,7 +1482,7 @@
         "description": "Sesame seed bread",
         "price": 70,
         "restaurant_id": 9,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mkate-wa-ufuta.jpg"
       },
       {
@@ -1491,7 +1491,7 @@
         "description": "Mashed potatoes with meat",
         "price": 250,
         "restaurant_id": 10,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mukimo-na-nyama.jpg"
       },
       {
@@ -1500,7 +1500,7 @@
         "description": "Chicken in coconut curry",
         "price": 280,
         "restaurant_id": 11,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/kuku-paka.jpg"
       },
       {
@@ -1509,7 +1509,7 @@
         "description": "Collard greens with peanut sauce",
         "price": 150,
         "restaurant_id": 12,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/sukuma-ndiyo.jpg"
       },
       {
@@ -1518,7 +1518,7 @@
         "description": "Fried chili sauce",
         "price": 40,
         "restaurant_id": 13,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/pilipili-ya-kukaanga.jpg"
       },
       {
@@ -1527,7 +1527,7 @@
         "description": "Ugali served with fish",
         "price": 280,
         "restaurant_id": 14,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/ugali-and-fish.jpg"
       },
       {
@@ -1536,7 +1536,7 @@
         "description": "Githeri served with fried chicken",
         "price": 300,
         "restaurant_id": 15,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/githeri-and-fried-chicken.jpg"
       },
       {
@@ -1545,7 +1545,7 @@
         "description": "Kenyan sausage",
         "price": 120,
         "restaurant_id": 16,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mutura.jpg"
       },
       {
@@ -1554,7 +1554,7 @@
         "description": "Irio served with fried tilapia",
         "price": 300,
         "restaurant_id": 17,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/irio-and-fried-tilapia.jpg"
       },
       {
@@ -1563,7 +1563,7 @@
         "description": "Kenyan-style biryani",
         "price": 260,
         "restaurant_id": 18,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/kenyan-biriani.jpg"
       },
       {
@@ -1572,7 +1572,7 @@
         "description": "Pigeon peas in coconut sauce",
         "price": 160,
         "restaurant_id": 19,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/mbaazi.jpg"
       },
       {
@@ -1581,7 +1581,7 @@
         "description": "Porridge made from millet or maize flour",
         "price": 70,
         "restaurant_id": 20,
-        "origin": "Kenya",
+        "origin": "Kenyan",
         "image": "https://example.com/uji.jpg"
       }
       
