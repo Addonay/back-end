@@ -1044,835 +1044,547 @@
         "origin": "Mexico",
         "image": "https://example.com/cochinita-pibil.jpg"
       },
-        {
-          "id": 101,
-          "food": "Pounded Yam and Egusi Soup",
-          "description": "Yam dough served with thick soup made from ground melon seeds.",
-          "price": 690,
-          "restaurant_id": 13,
-          "origin": "Nigeria",
-          "image": "https://example.com/pounded_yam_egusi_soup.jpg"
-        },
-        {
-          "id": 102,
-          "food": "Ogbono Soup",
-          "description": "Thick and hearty soup made from ground ogbono seeds.",
-          "price": 570,
-          "restaurant_id": 14,
-          "origin": "Nigeria",
-          "image": "https://example.com/ogbono_soup.jpg"
-        },
-        {
-          "id": 103,
-          "food": "Pepper Soup",
-          "description": "Spicy broth with various meats and fish.",
-          "price": 540,
-          "restaurant_id": 15,
-          "origin": "Nigeria",
-          "image": "https://example.com/pepper_soup.jpg"
-        },
-        {
-          "id": 104,
-          "food": "Chin Chin",
-          "description": "Crunchy fried snack made with flour, sugar, and butter.",
-          "price": 280,
-          "restaurant_id": 16,
-          "origin": "Nigeria",
-          "image": "https://example.com/chin_chin.jpg"
-        },
-        {
-          "id": 105,
-          "food": "Tteokbokki",
-          "description": "Spicy rice cakes cooked with fish cakes and gochujang sauce.",
-          "price": 740,
-          "restaurant_id": 17,
-          "origin": "Korea",
-          "image": "https://example.com/tteokbokki.jpg"
-        },
-        {
-          "id": 106,
-          "food": "Haejangguk",
-          "description": "Spicy beef and vegetable soup, often eaten as a hangover cure.",
-          "price": 620,
-          "restaurant_id": 18,
-          "origin": "Korea",
-          "image": "https://example.com/haejangguk.jpg"
-        },
-        {
-          "id": 107,
-          "food": "Bibim Naengmyeon",
-          "description": "Cold spicy noodles with vegetables and a tangy sauce.",
-          "price": 580,
-          "restaurant_id": 19,
-          "origin": "Korea",
-          "image": "https://example.com/bibim_naengmyeon.jpg"
-        },
-        {
-          "id": 108,
-          "food": "Jjajangmyeon",
-          "description": "Noodles with black bean sauce and vegetables.",
-          "price": 690,
-          "restaurant_id": 20,
-          "origin": "Korea",
-          "image": "https://example.com/jjajangmyeon.jpg"
-        },
-        {
-          "id": 109,
-          "food": "Bun Cha",
-          "description": "Grilled pork and vermicelli noodles served with herbs and sauce.",
-          "price": 750,
-          "restaurant_id": 1,
-          "origin": "Vietnamese",
-          "image": "https://example.com/bun_cha.jpg"
-        },
-        {
-          "id": 110,
-          "food": "Goi Ga",
-          "description": "Refreshing salad with shredded chicken, cabbage, and herbs.",
-          "price": 450,
-          "restaurant_id": 2,
-          "origin": "Vietnamese",
-          "image": "https://example.com/goi_ga.jpg"
-        },
-        {
-          "id": 111,
-          "food": "Bo La Lot",
-          "description": "Grilled beef wrapped in betel leaves.",
-          "price": 680,
-          "restaurant_id": 3,
-          "origin": "Vietnamese",
-          "image": "https://example.com/bo_la_lot.jpg"
-        },
-        {
-          "id": 112,
-          "food": "Ca Phe Trung",
-          "description": "Vietnamese egg coffee with sweetened condensed milk.",
-          "price": 390,
-          "restaurant_id": 4,
-          "origin": "Vietnamese",
-          "image": "https://example.com/ca_phe_trung.jpg"
-        },
-        {
-          "id": 113,
-          "food": "Koshari",
-          "description": "Egyptian street food dish with rice, lentils, chickpeas, and pasta, topped with spicy tomato sauce.",
-          "price": 380,
-          "restaurant_id": 5,
-          "origin": "Egypt",
-          "image": "https://example.com/koshari.jpg"
-        },
-        {
-          "id": 114,
-          "food": "Ful Medames",
-          "description": "Fava bean stew served with olive oil, garlic, and lemon.",
-          "price": 310,
-          "restaurant_id": 6,
-          "origin": "Egypt",
-          "image": "https://example.com/ful_medames.jpg"
-        },
-        {
-          "id": 115,
-          "food": "Hawawshi",
-          "description": "Spiced minced meat stuffed in pita bread and baked.",
-          "price": 470,
-          "restaurant_id": 7,
-          "origin": "Egypt",
-          "image": "https://example.com/hawawshi.jpg"
-        },
-        {
-          "id": 116,
-          "food": "Basbousa",
-          "description": "Sweet semolina cake soaked in simple syrup.",
-          "price": 220,
-          "restaurant_id": 8,
-          "origin": "Egypt",
-          "image": "https://example.com/basbousa.jpg"
-        },
-        {
-          "id": 117,
-          "food": "Bratwurst",
-          "description": "Grilled German sausages made with pork, beef, or veal.",
-          "price": 410,
-          "restaurant_id": 9,
-          "origin": "Germany",
-          "image": "https://example.com/bratwurst.jpg"
-        },
-        {
-          "id": 118,
-          "food": "Sauerbraten",
-          "description": "Pot roast marinated in a mixture of vinegar or wine, often served with red cabbage and potato dumplings.",
-          "price": 720,
-          "restaurant_id": 10,
-          "origin": "Germany",
-          "image": "https://example.com/sauerbraten.jpg"
-        },
-        {
-          "id": 119,
-          "food": "Kartoffelsalat",
-          "description": "German potato salad with onions, bacon, and a tangy dressing.",
-          "price": 320,
-          "restaurant_id": 11,
-          "origin": "Germany",
-          "image": "https://example.com/kartoffelsalat.jpg"
-        },
-        {
-          "id": 120,
-          "food": "Black Forest Cake",
-          "description": "Chocolate sponge cake with cherries and whipped cream.",
-          "price": 490,
-          "restaurant_id": 12,
-          "origin": "Germany",
-          "image": "https://example.com/black_forest_cake.jpg"
-        },
-        {
-          "id": 121,
-          "food": "Borscht",
-          "description": "Beetroot soup with vegetables, often served with sour cream.",
-          "price": 340,
-          "restaurant_id": 13,
-          "origin": "Russia",
-          "image": "https://example.com/borscht.jpg"
-        },
-        {
-          "id": 122,
-          "food": "Beef Stroganoff",
-          "description": "Sauteed beef in a creamy mushroom sauce, often served with noodles.",
-          "price": 650,
-          "restaurant_id": 14,
-          "origin": "Russia",
-          "image": "https://example.com/beef_stroganoff.jpg"
-        },
-        {
-          "id": 123,
-          "food": "Pelmeni",
-          "description": "Dumplings filled with meat, served with sour cream or butter.",
-          "price": 390,
-          "restaurant_id": 15,
-          "origin": "Russia",
-          "image": "https://example.com/pelmeni.jpg"
-        },
-        {
-          "id": 124,
-          "food": "Napoleon Cake",
-          "description": "Layered cake with pastry cream and a flaky crust.",
-          "price": 420,
-          "restaurant_id": 16,
-          "origin": "Russia",
-          "image": "https://example.com/napoleon_cake.jpg"
-        },
-        {
-          "id": 125,
-          "food": "Couscous",
-          "description": "Steamed semolina served with vegetables and meat.",
-          "price": 550,
-          "restaurant_id": 17,
-          "origin": "Morocco",
-          "image": "https://example.com/couscous.jpg"
-        },
-        {
-          "id": 126,
-          "food": "Tagine",
-          "description": "Slow-cooked stew with meat, vegetables, and Moroccan spices.",
-          "price": 690,
-          "restaurant_id": 18,
-          "origin": "Morocco",
-          "image": "https://example.com/tagine.jpg"
-        },
-        {
-          "id": 127,
-          "food": "Harira",
-          "description": "Tomato-based soup with lentils, chickpeas, and lamb.",
-          "price": 410,
-          "restaurant_id": 19,
-          "origin": "Morocco",
-          "image": "https://example.com/harira.jpg"
-        },
-        {
-          "id": 128,
-          "food": "Pastilla",
-          "description": "Sweet and savory pie with layers of meat, almonds, and spices.",
-          "price": 800,
-          "restaurant_id": 20,
-          "origin": "Morocco",
-          "image": "https://example.com/pastilla.jpg"
-        },
-        {
-          "id": 129,
-          "food": "Ceviche",
-          "description": "Citrus-marinated seafood served with onions, corn, and sweet potato.",
-          "price": 670,
-          "restaurant_id": 1,
-          "origin": "Peru",
-          "image": "https://example.com/ceviche.jpg"
-        },
-        {
-          "id": 130,
-          "food": "Lomo Saltado",
-          "description": "Stir-fry of beef, onions, tomatoes, and french fries, often served with rice.",
-          "price": 750,
-          "restaurant_id": 2,
-          "origin": "Peru",
-          "image": "https://example.com/lomo_saltado.jpg"
-        },
-        {
-          "id": 131,
-          "food": "Aji de Gallina",
-          "description": "Creamy chicken stew with aji amarillo peppers and walnuts.",
-          "price": 580,
-          "restaurant_id": 3,
-          "origin": "Peru",
-          "image": "https://example.com/aji_de_gallina.jpg"
-        },
-        {
-          "id": 132,
-          "food": "Picarones",
-          "description": "Sweet potato and pumpkin doughnuts served with molasses syrup.",
-          "price": 320,
-          "restaurant_id": 4,
-          "origin": "Peru",
-          "image": "https://example.com/picarones.jpg"
-        },
-        {
-          "id": 133,
-          "food": "Kebab",
-          "description": "Grilled meat, often served with flatbread and vegetables.",
-          "price": 620,
-          "restaurant_id": 5,
-          "origin": "Turkey",
-          "image": "https://example.com/kebab.jpg"
-        },
-        {
-          "id": 134,
-          "food": "Baklava",
-          "description": "Sweet pastry made with layers of filo and nuts, soaked in honey.",
-          "price": 450,
-          "restaurant_id": 6,
-          "origin": "Turkey",
-          "image": "https://example.com/baklava.jpg"
-        },
-        {
-          "id": 135,
-          "food": "Manti",
-          "description": "Turkish dumplings filled with minced meat and served with yogurt and spices.",
-          "price": 490,
-          "restaurant_id": 7,
-          "origin": "Turkey",
-          "image": "https://example.com/manti.jpg"
-        },
-        {
-          "id": 136,
-          "food": "Turkish Delight",
-          "description": "Chewy confectionery often flavored with rosewater or citrus.",
-          "price": 290,
-          "restaurant_id": 8,
-          "origin": "Turkey",
-          "image": "https://example.com/turkish_delight.jpg"
-        },
-        {
-          "id": 137,
-          "food": "Molokhia",
-          "description": "Leafy green soup made from jute leaves.",
-          "price": 310,
-          "restaurant_id": 9,
-          "origin": "Egypt",
-          "image": "https://example.com/molokhia.jpg"
-        },
-        {
-          "id": 138,
-          "food": "Mahshi",
-          "description": "Stuffed vegetables, often with rice and minced meat.",
-          "price": 470,
-          "restaurant_id": 10,
-          "origin": "Egypt",
-          "image": "https://example.com/mahshi.jpg"
-        },
-        {
-          "id": 139,
-          "food": "Roz Bel Laban",
-          "description": "Rice pudding with milk and nuts.",
-          "price": 290,
-          "restaurant_id": 11,
-          "origin": "Egypt",
-          "image": "https://example.com/roz_bel_laban.jpg"
-        },
-        {
-          "id": 140,
-          "food": "Feteer Meshaltet",
-          "description": "Layered pastry often filled with cheese, honey, or minced meat.",
-          "price": 360,
-          "restaurant_id": 12,
-          "origin": "Egypt",
-          "image": "https://example.com/feteer_meshaltet.jpg"
-        },
-        {
-          "id": 141,
-          "food": "Kartoffelsuppe",
-          "description": "Traditional German potato soup.",
-          "price": 260,
-          "restaurant_id": 13,
-          "origin": "Germany",
-          "image": "https://example.com/kartoffelsuppe.jpg"
-        },
-        {
-          "id": 142,
-          "food": "Apfelstrudel",
-          "description": "Apple strudel pastry with cinnamon and raisins.",
-          "price": 380,
-          "restaurant_id": 14,
-          "origin": "Germany",
-          "image": "https://example.com/apfelstrudel.jpg"
-        },
-        {
-          "id": 143,
-          "food": "Leberkäse",
-          "description": "Baked meatloaf, often served in sandwiches.",
-          "price": 310,
-          "restaurant_id": 15,
-          "origin": "Germany",
-          "image": "https://example.com/leberkase.jpg"
-        },
-        {
-          "id": 144,
-          "food": "Schwarzwälder Kirschtorte",
-          "description": "Black Forest cherry cake with whipped cream and cherries.",
-          "price": 490,
-          "restaurant_id": 16,
-          "origin": "Germany",
-          "image": "https://example.com/schwarzwalder_kirschtorte.jpg"
-        },
-        {
-          "id": 145,
-          "food": "Olivier Salad",
-          "description": "Russian potato salad with vegetables, eggs, and mayonnaise.",
-          "price": 350,
-          "restaurant_id": 17,
-          "origin": "Russia",
-          "image": "https://example.com/olivier_salad.jpg"
-        },
-        {
-          "id": 146,
-          "food": "Pirozhki",
-          "description": "Small stuffed buns with various fillings, such as meat, vegetables, or sweet preserves.",
-          "price": 260,
-          "restaurant_id": 18,
-          "origin": "Russia",
-          "image": "https://example.com/pirozhki.jpg"
-        },
-        {
-          "id": 147,
-          "food": "Syrniki",
-          "description": "Cottage cheese pancakes, often served with sour cream or jam.",
-          "price": 290,
-          "restaurant_id": 19,
-          "origin": "Russia",
-          "image": "https://example.com/syrniki.jpg"
-        },
-        {
-          "id": 148,
-          "food": "Blini",
-          "description": "Thin Russian pancakes, usually served with caviar, sour cream, or jam.",
-          "price": 340,
-          "restaurant_id": 20,
-          "origin": "Russia",
-          "image": "https://example.com/blini.jpg"
-        },
-        {
-          "id": 149,
-          "food": "Mrouzia",
-          "description": "Sweet and savory lamb dish cooked with honey, almonds, and spices.",
-          "price": 850,
-          "restaurant_id": 1,
-          "origin": "Morocco",
-          "image": "https://example.com/mrouzia.jpg"
-        },
-        {
-          "id": 150,
-          "food": "Zaalouk",
-          "description": "Moroccan eggplant salad with tomatoes, garlic, and spices.",
-          "price": 290,
-          "restaurant_id": 2,
-          "origin": "Morocco",
-          "image": "https://example.com/zaalouk.jpg"
-        },
-        {
-          "id": 151,
-          "food": "Mechoui",
-          "description": "Slow-roasted whole lamb or sheep, seasoned with spices.",
-          "price": 990,
-          "restaurant_id": 3,
-          "origin": "Morocco",
-          "image": "https://example.com/mechoui.jpg"
-        },
-        {
-          "id": 152,
-          "food": "Chebakia",
-          "description": "Honey-soaked sesame cookies, often served during special occasions.",
-          "price": 330,
-          "restaurant_id": 4,
-          "origin": "Morocco",
-          "image": "https://example.com/chebakia.jpg"
-        },
-        {
-          "id": 153,
-          "food": "Anticuchos",
-          "description": "Grilled beef heart skewers, often served with potatoes and spicy sauce.",
-          "price": 530,
-          "restaurant_id": 5,
-          "origin": "Peru",
-          "image": "https://example.com/anticuchos.jpg"
-        },
-        {
-          "id": 154,
-          "food": "Papa a la Huancaína",
-          "description": "Potatoes in spicy cheese sauce, typically served cold.",
-          "price": 310,
-          "restaurant_id": 6,
-          "origin": "Peru",
-          "image": "https://example.com/papa_a_la_huancaina.jpg"
-        },
-        {
-          "id": 155,
-          "food": "Tacu Tacu",
-          "description": "Rice and beans cake, often served with steak and salsa criolla.",
-          "price": 480,
-          "restaurant_id": 7,
-          "origin": "Peru",
-          "image": "https://example.com/tacu_tacu.jpg"
-        },
-        {
-          "id": 156,
-          "food": "Suspiro Limeño",
-          "description": "Sweet and creamy dessert with caramel and meringue.",
-          "price": 320,
-          "restaurant_id": 8,
-          "origin": "Peru",
-          "image": "https://example.com/suspiro_limeno.jpg"
-        },
-        {
-          "id": 157,
-          "food": "Döner Kebab",
-          "description": "Spit-roasted meat served in flatbread with vegetables and sauce.",
-          "price": 580,
-          "restaurant_id": 9,
-          "origin": "Turkey",
-          "image": "https://example.com/doner_kebab.jpg"
-        },
-        {
-          "id": 158,
-          "food": "Köfte",
-          "description": "Turkish meatballs made from minced meat and spices.",
-          "price": 460,
-          "restaurant_id": 10,
-          "origin": "Turkey",
-          "image": "https://example.com/koft.jpg"
-        },
-        {
-          "id": 159,
-          "food": "Pide",
-          "description": "Turkish flatbread topped with various ingredients, similar to pizza.",
-          "price": 410,
-          "restaurant_id": 11,
-          "origin": "Turkey",
-          "image": "https://example.com/pide.jpg"
-        },
-        {
-          "id": 160,
-          "food": "Baklava",
-          "description": "Sweet pastry made with layers of filo and nuts, soaked in honey.",
-          "price": 450,
-          "restaurant_id": 12,
-          "origin": "Turkey",
-          "image": "https://example.com/baklava.jpg"
-        },
-        {
-          "id": 161,
-          "food": "Biltong",
-          "description": "Dried and seasoned meat, similar to beef jerky.",
-          "price": 430,
-          "restaurant_id": 13,
-          "origin": "South Africa",
-          "image": "https://example.com/biltong.jpg"
-        },
-        {
-          "id": 162,
-          "food": "Bobotie",
-          "description": "Cape Malay spiced meat dish with an egg-based topping.",
-          "price": 490,
-          "restaurant_id": 14,
-          "origin": "South Africa",
-          "image": "https://example.com/bobotie.jpg"
-        },
-        {
-          "id": 163,
-          "food": "Pap en Wors",
-          "description": "Boerewors (sausage) served with maize porridge.",
-          "price": 350,
-          "restaurant_id": 15,
-          "origin": "South Africa",
-          "image": "https://example.com/pap_en_wors.jpg"
-        },
-        {
-          "id": 164,
-          "food": "Malva Pudding",
-          "description": "Spongy caramelized pudding served with custard.",
-          "price": 270,
-          "restaurant_id": 16,
-          "origin": "South Africa",
-          "image": "https://example.com/malva_pudding.jpg"
-        },
-        {
-          "id": 165,
-          "food": "Sosaties",
-          "description": "Marinated and skewered meat with dried fruit, a traditional Cape Malay dish.",
-          "price": 410,
-          "restaurant_id": 17,
-          "origin": "South Africa",
-          "image": "https://example.com/sosaties.jpg"
-        },
-        {
-          "id": 166,
-          "food": "Potjiekos",
-          "description": "Traditional stew slow-cooked in a cast-iron pot over open flames.",
-          "price": 500,
-          "restaurant_id": 18,
-          "origin": "South Africa",
-          "image": "https://example.com/potjiekos.jpg"
-        },
-        {
-          "id": 167,
-          "food": "Chakalaka",
-          "description": "Spicy vegetable relish, often served as a side dish.",
-          "price": 200,
-          "restaurant_id": 19,
-          "origin": "South Africa",
-          "image": "https://example.com/chakalaka.jpg"
-        },
-        {
-          "id": 168,
-          "food": "Koeksisters",
-          "description": "Braided and fried dough pastry soaked in syrup.",
-          "price": 330,
-          "restaurant_id": 20,
-          "origin": "South Africa",
-          "image": "https://example.com/koeksisters.jpg"
-        },
-        {
-          "id": 169,
-          "food": "Ugali",
-          "description": "Staple food made from maize flour, served with various stews.",
-          "price": 210,
-          "restaurant_id": 1,
-          "origin": "Kenya",
-          "image": "https://example.com/ugali.jpg"
-        },
-        {
-          "id": 170,
-          "food": "Nyama Choma",
-          "description": "Grilled meat, often served with side dishes like ugali and kachumbari.",
-          "price": 590,
-          "restaurant_id": 2,
-          "origin": "Kenya",
-          "image": "https://example.com/nyama_choma.jpg"
-        },
-        {
-          "id": 171,
-          "food": "Sukuma Wiki",
-          "description": "Sautéed collard greens with onions and tomatoes.",
-          "price": 280,
-          "restaurant_id": 3,
-          "origin": "Kenya",
-          "image": "https://example.com/sukuma_wiki.jpg"
-        },
-        {
-          "id": 172,
-          "food": "Mandazi",
-          "description": "Sweet fried dough, popular as a snack or breakfast.",
-          "price": 190,
-          "restaurant_id": 4,
-          "origin": "Kenya",
-          "image": "https://example.com/mandazi.jpg"
-        },
-        {
-          "id": 173,
-          "food": "Githeri",
-          "description": "Mixed stew of boiled maize and beans.",
-          "price": 260,
-          "restaurant_id": 5,
-          "origin": "Kenya",
-          "image": "https://example.com/githeri.jpg"
-        },
-        {
-          "id": 174,
-          "food": "Irio",
-          "description": "Mashed peas and potatoes, often served with meat stew.",
-          "price": 320,
-          "restaurant_id": 6,
-          "origin": "Kenya",
-          "image": "https://example.com/irio.jpg"
-        },
-        {
-          "id": 175,
-          "food": "Chapati",
-          "description": "Thin unleavened flatbread, a common accompaniment to meals.",
-          "price": 180,
-          "restaurant_id": 7,
-          "origin": "Kenya",
-          "image": "https://example.com/chapati.jpg"
-        },
-        {
-          "id": 176,
-          "food": "Samosa",
-          "description": "Deep-fried pastry filled with spiced meat or vegetables.",
-          "price": 220,
-          "restaurant_id": 8,
-          "origin": "Kenya",
-          "image": "https://example.com/samosa.jpg"
-        },
-        {
-          "id": 177,
-          "food": "Mutura",
-          "description": "Kenyan sausage made with minced meat and spices.",
-          "price": 280,
-          "restaurant_id": 9,
-          "origin": "Kenya",
-          "image": "https://example.com/mutura.jpg"
-        },
-        {
-          "id": 178,
-          "food": "Mahamri",
-          "description": "Sweet and coconut-flavored doughnuts.",
-          "price": 190,
-          "restaurant_id": 10,
-          "origin": "Kenya",
-          "image": "https://example.com/mahamri.jpg"
-        },
-        {
-          "id": 179,
-          "food": "Omena",
-          "description": "Small dried fish, often used in stews or eaten as a snack.",
-          "price": 210,
-          "restaurant_id": 11,
-          "origin": "Kenya",
-          "image": "https://example.com/omena.jpg"
-        },
-        {
-          "id": 180,
-          "food": "Kachumbari",
-          "description": "Tomato and onion salad, commonly served with nyama choma.",
-          "price": 150,
-          "restaurant_id": 12,
-          "origin": "Kenya",
-          "image": "https://example.com/kachumbari.jpg"
-        },
-        {
-          "id": 181,
-          "food": "Pilau",
-          "description": "Spiced rice dish often cooked with meat or seafood.",
-          "price": 420,
-          "restaurant_id": 13,
-          "origin": "Kenya",
-          "image": "https://example.com/pilau.jpg"
-        },
-        {
-          "id": 182,
-          "food": "Matoke",
-          "description": "Green banana stew, a favorite in Kenyan cuisine.",
-          "price": 280,
-          "restaurant_id": 14,
-          "origin": "Kenya",
-          "image": "https://example.com/matoke.jpg"
-        },
-        {
-          "id": 183,
-          "food": "Sukuma Wiki Ugali",
-          "description": "Sukuma wiki served with ugali, a simple and satisfying meal.",
-          "price": 230,
-          "restaurant_id": 15,
-          "origin": "Kenya",
-          "image": "https://example.com/sukuma_wiki_ugali.jpg"
-        },
-        {
-          "id": 184,
-          "food": "Nyama Na Irio",
-          "description": "A combination of nyama choma and irio, a flavorful dish.",
-          "price": 550,
-          "restaurant_id": 16,
-          "origin": "Kenya",
-          "image": "https://example.com/nyama_na_irio.jpg"
-        },
-        {
-          "id": 185,
-          "food": "Kuku Paka",
-          "description": "Coconut chicken curry, a delightful Kenyan delicacy.",
-          "price": 410,
-          "restaurant_id": 17,
-          "origin": "Kenya",
-          "image": "https://example.com/kuku_paka.jpg"
-        },
-        {
-          "id": 186,
-          "food": "Mandazi Chai",
-          "description": "Mandazi served with spiced tea, a popular tea-time treat.",
-          "price": 220,
-          "restaurant_id": 18,
-          "origin": "Kenya",
-          "image": "https://example.com/mandazi_chai.jpg"
-        },
-        {
-          "id": 187,
-          "food": "Maharagwe",
-          "description": "Coconut-infused kidney bean stew, often eaten with rice or chapati.",
-          "price": 260,
-          "restaurant_id": 19,
-          "origin": "Kenya",
-          "image": "https://example.com/maharagwe.jpg"
-        },
-        {
-          "id": 188,
-          "food": "Mursik",
-          "description": "Traditional fermented milk, a unique Kenyan beverage.",
-          "price": 180,
-          "restaurant_id": 20,
-          "origin": "Kenya",
-          "image": "https://example.com/mursik.jpg"
-        },
-        {
-          "id": 189,
-          "food": "Chips Mayai",
-          "description": "Fries omelette, a popular street food in Kenya.",
-          "price": 190,
-          "restaurant_id": 1,
-          "origin": "Kenya",
-          "image": "https://example.com/chips_mayai.jpg"
-        },
-        {
-          "id": 190,
-          "food": "Samaki Wa Kupaka",
-          "description": "Fish in coconut sauce, a coastal specialty.",
-          "price": 480,
-          "restaurant_id": 2,
-          "origin": "Kenya",
-          "image": "https://example.com/samaki_wa_kupaka.jpg"
-        },
-        {
-          "id": 191,
-          "food": "Sukuma Wiki with Matoke",
-          "description": "Sukuma wiki served with matoke, a wholesome combination.",
-          "price": 270,
-          "restaurant_id": 3,
-          "origin": "Kenya",
-          "image": "https://example.com/sukuma_wiki_matoke.jpg"
-        },
-        {
-          "id": 192,
-          "food": "Mbaazi Wa Nazi",
-          "description": "Pigeon peas in coconut milk, often enjoyed with rice.",
-          "price": 250,
-          "restaurant_id": 4,
-          "origin": "Kenya",
-          "image": "https://example.com/mbaazi_wa_nazi.jpg"
-        }
-
+      {
+        "id": 101,
+        "name": "Camarones al Ajillo",
+        "description": "Garlic shrimp",
+        "price": 320,
+        "restaurant_id": 1,
+        "origin": "Mexico",
+        "image": "https://example.com/camarones-al-ajillo.jpg"
+      },
+      {
+        "id": 102,
+        "name": "Tlayudas",
+        "description": "Large tortillas with toppings",
+        "price": 240,
+        "restaurant_id": 2,
+        "origin": "Mexico",
+        "image": "https://example.com/tlayudas.jpg"
+      },
+      {
+        "id": 103,
+        "name": "Huachinango a la Veracruzana",
+        "description": "Veracruz-style red snapper",
+        "price": 350,
+        "restaurant_id": 3,
+        "origin": "Mexico",
+        "image": "https://example.com/huachinango-a-la-veracruzana.jpg"
+      },
+      {
+        "id": 104,
+        "name": "Queso Fundido",
+        "description": "Melted cheese dish",
+        "price": 260,
+        "restaurant_id": 4,
+        "origin": "Mexico",
+        "image": "https://example.com/queso-fundido.jpg"
+      },
+      {
+        "id": 105,
+        "name": "Caldo de Res",
+        "description": "Beef soup",
+        "price": 280,
+        "restaurant_id": 5,
+        "origin": "Mexico",
+        "image": "https://example.com/caldo-de-res.jpg"
+      },
+      {
+        "id": 106,
+        "name": "Tostadas",
+        "description": "Fried tortillas with toppings",
+        "price": 190,
+        "restaurant_id": 6,
+        "origin": "Mexico",
+        "image": "https://example.com/tostadas.jpg"
+      },
+      {
+        "id": 107,
+        "name": "Gorditas",
+        "description": "Thick stuffed tortillas",
+        "price": 210,
+        "restaurant_id": 7,
+        "origin": "Mexico",
+        "image": "https://example.com/gorditas.jpg"
+      },
+      {
+        "id": 108,
+        "name": "Pambazos",
+        "description": "Mexican sandwiches dipped in chili sauce",
+        "price": 220,
+        "restaurant_id": 8,
+        "origin": "Mexico",
+        "image": "https://example.com/pambazos.jpg"
+      },
+      {
+        "id": 109,
+        "name": "Papadzules",
+        "description": "Yucatecan dish",
+        "price": 260,
+        "restaurant_id": 9,
+        "origin": "Mexico",
+        "image": "https://example.com/papadzules.jpg"
+      },
+      {
+        "id": 110,
+        "name": "Empanadas",
+        "description": "Fried pastry filled with meat or sweet fillings",
+        "price": 200,
+        "restaurant_id": 10,
+        "origin": "Mexico",
+        "image": "https://example.com/empanadas.jpg"
+      },
+      {
+        "id": 111,
+        "name": "Chiles Rellenos",
+        "description": "Stuffed poblano peppers",
+        "price": 280,
+        "restaurant_id": 11,
+        "origin": "Mexico",
+        "image": "https://example.com/chiles-rellenos.jpg"
+      },
+      {
+        "id": 112,
+        "name": "Capirotada",
+        "description": "Mexican bread pudding",
+        "price": 180,
+        "restaurant_id": 12,
+        "origin": "Mexico",
+        "image": "https://example.com/capirotada.jpg"
+      },
+      {
+        "id": 113,
+        "name": "Picadillo",
+        "description": "Ground meat dish with vegetables and spices",
+        "price": 260,
+        "restaurant_id": 13,
+        "origin": "Mexico",
+        "image": "https://example.com/picadillo.jpg"
+      },
+      {
+        "id": 114,
+        "name": "Agua Fresca",
+        "description": "Various fruit-infused beverages",
+        "price": 120,
+        "restaurant_id": 14,
+        "origin": "Mexico",
+        "image": "https://example.com/agua-fresca.jpg"
+      },
+      {
+        "id": 115,
+        "name": "Camotes",
+        "description": "Candied sweet potatoes",
+        "price": 90,
+        "restaurant_id": 15,
+        "origin": "Mexico",
+        "image": "https://example.com/camotes.jpg"
+      },
+      {
+        "id": 116,
+        "name": "Coctel de Camarones",
+        "description": "Mexican shrimp cocktail",
+        "price": 300,
+        "restaurant_id": 16,
+        "origin": "Mexico",
+        "image": "https://example.com/coctel-de-camarones.jpg"
+      },
+      {
+        "id": 117,
+        "name": "Atole",
+        "description": "Traditional hot drink made from masa",
+        "price": 150,
+        "restaurant_id": 17,
+        "origin": "Mexico",
+        "image": "https://example.com/atole.jpg"
+      },
+      {
+        "id": 118,
+        "name": "Tinga de Pollo",
+        "description": "Shredded chicken in chipotle sauce",
+        "price": 260,
+        "restaurant_id": 18,
+        "origin": "Mexico",
+        "image": "https://example.com/tinga-de-pollo.jpg"
+      },
+      {
+        "id": 119,
+        "name": "Cochinita Pibil Tacos",
+        "description": "Tacos with Yucatan-style slow-roasted pork",
+        "price": 280,
+        "restaurant_id": 19,
+        "origin": "Mexico",
+        "image": "https://example.com/cochinita-pibil-tacos.jpg"
+      },
+      {
+        "id": 120,
+        "name": "Elotes",
+        "description": "Mexican street corn",
+        "price": 150,
+        "restaurant_id": 20,
+        "origin": "Mexico",
+        "image": "https://example.com/elotes.jpg"
+      },
+      {
+        "id": 121,
+        "name": "Ugali",
+        "description": "Maize porridge",
+        "price": 150,
+        "restaurant_id": 1,
+        "origin": "Kenya",
+        "image": "https://example.com/ugali.jpg"
+      },
+      {
+        "id": 122,
+        "name": "Nyama Choma",
+        "description": "Grilled meat",
+        "price": 300,
+        "restaurant_id": 2,
+        "origin": "Kenya",
+        "image": "https://example.com/nyama-choma.jpg"
+      },
+      {
+        "id": 123,
+        "name": "Sukuma Wiki",
+        "description": "Collard greens",
+        "price": 100,
+        "restaurant_id": 3,
+        "origin": "Kenya",
+        "image": "https://example.com/sukuma-wiki.jpg"
+      },
+      {
+        "id": 124,
+        "name": "Githeri",
+        "description": "Maize and bean stew",
+        "price": 180,
+        "restaurant_id": 4,
+        "origin": "Kenya",
+        "image": "https://example.com/githeri.jpg"
+      },
+      {
+        "id": 125,
+        "name": "Chapati",
+        "description": "Flatbread",
+        "price": 50,
+        "restaurant_id": 5,
+        "origin": "Kenya",
+        "image": "https://example.com/chapati.jpg"
+      },
+      {
+        "id": 126,
+        "name": "Mandazi",
+        "description": "African donuts",
+        "price": 60,
+        "restaurant_id": 6,
+        "origin": "Kenya",
+        "image": "https://example.com/mandazi.jpg"
+      },
+      {
+        "id": 127,
+        "name": "Pilau",
+        "description": "Spiced rice",
+        "price": 250,
+        "restaurant_id": 7,
+        "origin": "Kenya",
+        "image": "https://example.com/pilau.jpg"
+      },
+      {
+        "id": 128,
+        "name": "Samosa",
+        "description": "Stuffed pastry",
+        "price": 40,
+        "restaurant_id": 8,
+        "origin": "Kenya",
+        "image": "https://example.com/samosa.jpg"
+      },
+      {
+        "id": 129,
+        "name": "Matoke",
+        "description": "Green banana stew",
+        "price": 180,
+        "restaurant_id": 9,
+        "origin": "Kenya",
+        "image": "https://example.com/matoke.jpg"
+      },
+      {
+        "id": 130,
+        "name": "Irio",
+        "description": "Mashed potatoes, peas, and corn",
+        "price": 200,
+        "restaurant_id": 10,
+        "origin": "Kenya",
+        "image": "https://example.com/irio.jpg"
+      },
+      {
+        "id": 131,
+        "name": "Kenyan Pilipili",
+        "description": "Hot sauce",
+        "price": 30,
+        "restaurant_id": 11,
+        "origin": "Kenya",
+        "image": "https://example.com/kenyan-pilipili.jpg"
+      },
+      {
+        "id": 132,
+        "name": "Wali wa Nazi",
+        "description": "Coconut rice",
+        "price": 180,
+        "restaurant_id": 12,
+        "origin": "Kenya",
+        "image": "https://example.com/wali-wa-nazi.jpg"
+      },
+      {
+        "id": 133,
+        "name": "Maharagwe",
+        "description": "Bean stew",
+        "price": 160,
+        "restaurant_id": 13,
+        "origin": "Kenya",
+        "image": "https://example.com/maharagwe.jpg"
+      },
+      {
+        "id": 134,
+        "name": "Kachumbari",
+        "description": "Tomato and onion salad",
+        "price": 50,
+        "restaurant_id": 14,
+        "origin": "Kenya",
+        "image": "https://example.com/kachumbari.jpg"
+      },
+      {
+        "id": 135,
+        "name": "Roast Maize",
+        "description": "Grilled corn on the cob",
+        "price": 40,
+        "restaurant_id": 15,
+        "origin": "Kenya",
+        "image": "https://example.com/roast-maize.jpg"
+      },
+      {
+        "id": 136,
+        "name": "Mukimo",
+        "description": "Mashed potatoes, corn, peas, and greens",
+        "price": 180,
+        "restaurant_id": 16,
+        "origin": "Kenya",
+        "image": "https://example.com/mukimo.jpg"
+      },
+      {
+        "id": 137,
+        "name": "Omena",
+        "description": "Small fish, often dried and fried",
+        "price": 120,
+        "restaurant_id": 17,
+        "origin": "Kenya",
+        "image": "https://example.com/omena.jpg"
+      },
+      {
+        "id": 138,
+        "name": "Biryani",
+        "description": "Spiced rice with meat or vegetables",
+        "price": 250,
+        "restaurant_id": 18,
+        "origin": "Kenya",
+        "image": "https://example.com/biryani.jpg"
+      },
+      {
+        "id": 139,
+        "name": "Bhajia",
+        "description": "Deep-fried potato fritters",
+        "price": 70,
+        "restaurant_id": 19,
+        "origin": "Kenya",
+        "image": "https://example.com/bhajia.jpg"
+      },
+      {
+        "id": 140,
+        "name": "Fish Stew",
+        "description": "with Tilapia or Nile Perch",
+        "price": 280,
+        "restaurant_id": 20,
+        "origin": "Kenya",
+        "image": "https://example.com/fish-stew.jpg"
+      },
+      {
+        "id": 141,
+        "name": "Mursik",
+        "description": "Fermented milk",
+        "price": 90,
+        "restaurant_id": 1,
+        "origin": "Kenya",
+        "image": "https://example.com/mursik.jpg"
+      },
+      {
+        "id": 142,
+        "name": "Nyoyo",
+        "description": "Tripe stew",
+        "price": 200,
+        "restaurant_id": 2,
+        "origin": "Kenya",
+        "image": "https://example.com/nyoyo.jpg"
+      },
+      {
+        "id": 143,
+        "name": "Wali wa Maharage",
+        "description": "Rice and beans",
+        "price": 180,
+        "restaurant_id": 3,
+        "origin": "Kenya",
+        "image": "https://example.com/wali-wa-maharage.jpg"
+      },
+      {
+        "id": 144,
+        "name": "Chai ya Tangawizi",
+        "description": "Ginger tea",
+        "price": 60,
+        "restaurant_id": 4,
+        "origin": "Kenya",
+        "image": "https://example.com/chai-ya-tangawizi.jpg"
+      },
+      {
+        "id": 145,
+        "name": "Kenyan Beef Stew",
+        "description": "Slow-cooked beef in tomato-based sauce",
+        "price": 280,
+        "restaurant_id": 5,
+        "origin": "Kenya",
+        "image": "https://example.com/kenyan-beef-stew.jpg"
+      },
+      {
+        "id": 146,
+        "name": "Fried Tilapia",
+        "description": "Fried whole tilapia fish",
+        "price": 230,
+        "restaurant_id": 6,
+        "origin": "Kenya",
+        "image": "https://example.com/fried-tilapia.jpg"
+      },
+      {
+        "id": 147,
+        "name": "Chicken Stew",
+        "description": "Chicken cooked in a flavorful stew",
+        "price": 220,
+        "restaurant_id": 7,
+        "origin": "Kenya",
+        "image": "https://example.com/chicken-stew.jpg"
+      },
+      {
+        "id": 148,
+        "name": "Mahamri",
+        "description": "Sweet fried bread",
+        "price": 60,
+        "restaurant_id": 8,
+        "origin": "Kenya",
+        "image": "https://example.com/mahamri.jpg"
+      },
+      {
+        "id": 149,
+        "name": "Mkate wa Ufuta",
+        "description": "Sesame seed bread",
+        "price": 70,
+        "restaurant_id": 9,
+        "origin": "Kenya",
+        "image": "https://example.com/mkate-wa-ufuta.jpg"
+      },
+      {
+        "id": 150,
+        "name": "Mukimo na Nyama",
+        "description": "Mashed potatoes with meat",
+        "price": 250,
+        "restaurant_id": 10,
+        "origin": "Kenya",
+        "image": "https://example.com/mukimo-na-nyama.jpg"
+      },
+      {
+        "id": 151,
+        "name": "Kuku Paka",
+        "description": "Chicken in coconut curry",
+        "price": 280,
+        "restaurant_id": 11,
+        "origin": "Kenya",
+        "image": "https://example.com/kuku-paka.jpg"
+      },
+      {
+        "id": 152,
+        "name": "Sukuma Ndiyo",
+        "description": "Collard greens with peanut sauce",
+        "price": 150,
+        "restaurant_id": 12,
+        "origin": "Kenya",
+        "image": "https://example.com/sukuma-ndiyo.jpg"
+      },
+      {
+        "id": 153,
+        "name": "Pilipili ya Kukaanga",
+        "description": "Fried chili sauce",
+        "price": 40,
+        "restaurant_id": 13,
+        "origin": "Kenya",
+        "image": "https://example.com/pilipili-ya-kukaanga.jpg"
+      },
+      {
+        "id": 154,
+        "name": "Ugali and Fish",
+        "description": "Ugali served with fish",
+        "price": 280,
+        "restaurant_id": 14,
+        "origin": "Kenya",
+        "image": "https://example.com/ugali-and-fish.jpg"
+      },
+      {
+        "id": 155,
+        "name": "Githeri and Fried Chicken",
+        "description": "Githeri served with fried chicken",
+        "price": 300,
+        "restaurant_id": 15,
+        "origin": "Kenya",
+        "image": "https://example.com/githeri-and-fried-chicken.jpg"
+      },
+      {
+        "id": 156,
+        "name": "Mutura",
+        "description": "Kenyan sausage",
+        "price": 120,
+        "restaurant_id": 16,
+        "origin": "Kenya",
+        "image": "https://example.com/mutura.jpg"
+      },
+      {
+        "id": 157,
+        "name": "Irio and Fried Tilapia",
+        "description": "Irio served with fried tilapia",
+        "price": 300,
+        "restaurant_id": 17,
+        "origin": "Kenya",
+        "image": "https://example.com/irio-and-fried-tilapia.jpg"
+      },
+      {
+        "id": 158,
+        "name": "Kenyan Biriani",
+        "description": "Kenyan-style biryani",
+        "price": 260,
+        "restaurant_id": 18,
+        "origin": "Kenya",
+        "image": "https://example.com/kenyan-biriani.jpg"
+      },
+      {
+        "id": 159,
+        "name": "Mbaazi",
+        "description": "Pigeon peas in coconut sauce",
+        "price": 160,
+        "restaurant_id": 19,
+        "origin": "Kenya",
+        "image": "https://example.com/mbaazi.jpg"
+      },
+      {
+        "id": 160,
+        "name": "Uji",
+        "description": "Porridge made from millet or maize flour",
+        "price": 70,
+        "restaurant_id": 20,
+        "origin": "Kenya",
+        "image": "https://example.com/uji.jpg"
+      }
+      
     ],
     
     "orders": [
