@@ -2,140 +2,140 @@
   "restaurant": [
       { 
             "id": 1,
-            "food": "The Grill House",
+            "name": "The Grill House",
             "description": "Sizzling steaks and grilled meats",
             "contact": "542-222-2133",
             "image": "https://images.pexels.com/photos/15378105/pexels-photo-15378105/free-photo-of-well-done-rib.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 2,
-            "food": "The Bistro",
+            "name": "The Bistro",
             "description": "French-inspired cuisine in a cozy setting",
             "contact": "333-222-3333",
             "image": "https://images.pexels.com/photos/2923034/pexels-photo-2923034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 3,
-            "food": "Gourmet Kitchen",
+            "name": "Gourmet Kitchen",
             "description": "Fine dining with a focus on fresh ingredients",
             "contact": "544-222-3311",
             "image": "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 4,
-            "food": "Pit Spot",
+            "name": "Pit Spot",
             "description": "BBQ and grilled meats in a casual setting",
             "contact": "555-424-3333",
             "image": "https://images.pexels.com/photos/8523166/pexels-photo-8523166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 5,
-            "food": "The Hash House",
+            "name": "The Hash House",
             "description": "Hearty breakfast and brunch options",
             "contact": "555-222-1111",
             "image": "https://images.pexels.com/photos/4947396/pexels-photo-4947396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 6,
-            "food": "The Deli",
+            "name": "The Deli",
             "description": "Freshly made sandwiches and salads",
             "contact": "123-222-3333",
             "image": "https://images.pexels.com/photos/2253643/pexels-photo-2253643.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 7,
-            "food": "The Green house",
+            "name": "The Green house",
             "description": "A variety of dishes in a cozy atmosphere",
             "contact": "555-868-3333",
             "image": "https://images.pexels.com/photos/17513578/pexels-photo-17513578/free-photo-of-restaurant-food-on-wall.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 8,
-            "food": "The Brunch",
+            "name": "The Brunch",
             "description": "Delicious brunch options served all day",
             "contact": "568-222-3333",
             "image": "https://images.pexels.com/photos/239975/pexels-photo-239975.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         }, 
         { 
           "id": 9,
-          "food": "Eat Spot",
+          "name": "Eat Spot",
           "description": "A trendy spot for delicious eats",
           "contact": "111-222-5533",
           "image": "https://images.pexels.com/photos/67468/pexels-photo-67468.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },  
       { 
             "id": 10,
-            "food": "The British Tea House",
+            "name": "The British Tea House",
             "description": "Traditional British tea and treats",
             "contact": "445-222-3333",
             "image": "https://images.pexels.com/photos/33275/tea-party-tea-black-and-white-teapot.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },
         { 
           "id": 11,
-          "food": "45 Degrees Kitchen",
+          "name": "45 Degrees Kitchen",
           "description": "Organic and sustainable ingredients in a French and Italian influenced menu",
           "contact": "444-222-2223",
           "image": "https://images.pexels.com/photos/6058325/pexels-photo-6058325.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
       },  
         {
             "id": 12,
-            "food": "Saffron Indian Cuisine",
+            "name": "Saffron Indian Cuisine",
             "description": "Authentic North Indian cuisine",
             "contact": "555-123-4567",
             "image": "https://tinyurl.com/yck6w8t7"
         },  
         { 
             "id": 13,
-            "food": "Pizza Planet",
+            "name": "Pizza Planet",
             "description": "Gourmet pizzas baked in a wood-fired oven",
             "contact": "555-987-6543",
             "image": "https://tinyurl.com/5e847sth"
         },  
         { 
             "id": 14,
-            "food": "Sushi Delight",
+            "name": "Sushi Delight",
             "description": "Fresh and delicious sushi rolls",
             "contact": "555-111-2222",
             "image": "https://tinyurl.com/3t996b7d"
         },  
         { 
             "id": 15,
-            "food": "Burger Bistro",
+            "name": "Burger Bistro",
             "description": "Gourmet burgers with a variety of toppings",
             "contact": "555-444-3333",
             "image": "https://tinyurl.com/5er72kes"
         },  
         { 
             "id": 16,
-            "food": "Seafood Cove",
+            "name": "Seafood Cove",
             "description": "Fresh seafood with a coastal vibe",
             "contact": "555-777-2222",
             "image": "https://tinyurl.com/4ntav2nk"
         },  
         { 
             "id": 17,
-            "food": "Taco Time",
+            "name": "Taco Time",
             "description": "Authentic Mexican street tacos",
             "contact": "555-222-1111",
             "image": "https://tinyurl.com/yjahby9u"
         },  
         { 
             "id": 18,
-            "food": "Pho Heaven",
+            "name": "Pho Heaven",
             "description": "Traditional Vietfoodse pho dishes",
             "contact": "555-222-3333",
             "image": "https://tinyurl.com/bdfasbba"
         },  
         { 
             "id": 19,
-            "food": "Tandoori Nights",
+            "name": "Tandoori Nights",
             "description": "Delicious tandoori specialties",
             "contact": "555-444-5555",
             "image": "https://tinyurl.com/yzv9kk3h"
         },
         { 
             "id": 20,
-            "food": "The Snack Bar",
+            "name": "The Snack Bar",
             "description": "Quick bites and snacks on the go",
             "contact": "554-112-3333",
             "image": "https://images.pexels.com/photos/4262012/pexels-photo-4262012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
