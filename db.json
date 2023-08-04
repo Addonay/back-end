@@ -772,8 +772,7 @@
         "restaurant_id": 10,
         "origin": "Ethiopia",
         "image": "https://example.com/doro-tibs.jpg"
-      }
-      
+      },      
       {
         "id": 71,
         "name": "Gored Gored",
@@ -1044,7 +1043,6 @@
         "origin": "Mexico",
         "image": "https://example.com/cochinita-pibil.jpg"
       },
-      
         {
           "id": 101,
           "food": "Pounded Yam and Egusi Soup",
