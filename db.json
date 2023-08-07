@@ -2,36 +2,36 @@
   "restaurant": [
       { 
             "id": 1,
-            "name": "The Grill House",
-            "description": "Sizzling steaks and grilled meats",
+            "name": "The Injera Place",
+            "description": "Injera inspired cuisine in a cozy setting",
             "contact": "542-222-2133",
-            "image": "https://images.pexels.com/photos/15378105/pexels-photo-15378105/free-photo-of-well-done-rib.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        },  
-        { 
-            "id": 2,
-            "name": "The Bistro",
-            "description": "French-inspired cuisine in a cozy setting",
-            "contact": "333-222-3333",
             "image": "https://images.pexels.com/photos/2923034/pexels-photo-2923034.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
+            "id": 2,
+            "name": "The Kienyeji House",
+            "description": "Sizzling steaks and grilled meats",
+            "contact": "333-222-3333",
+            "image": "https://images.pexels.com/photos/15378105/pexels-photo-15378105/free-photo-of-well-done-rib.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },  
+        { 
             "id": 3,
-            "name": "Gourmet Kitchen",
+            "name": " La Diaspora Kinshasa",
             "description": "Fine dining with a focus on fresh ingredients",
             "contact": "544-222-3311",
             "image": "https://images.pexels.com/photos/4551832/pexels-photo-4551832.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 4,
-            "name": "Pit Spot",
-            "description": "BBQ and grilled meats in a casual setting",
+            "name": "Oteeri Mbale",
+            "description": "Ugandan meals in a casual setting",
             "contact": "555-424-3333",
             "image": "https://images.pexels.com/photos/8523166/pexels-photo-8523166.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
         { 
             "id": 5,
-            "name": "The Hash House",
-            "description": "Hearty breakfast and brunch options",
+            "name": "Fufuville",
+            "description": "Freshly made fufu and palm wine available",
             "contact": "555-222-1111",
             "image": "https://images.pexels.com/photos/4947396/pexels-photo-4947396.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
         },  
