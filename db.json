@@ -151,7 +151,7 @@
         "price": 1000,
         "restaurant_id": 1,
         "origin": "Kenyan",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fjoanmwangi967%2Fkenyan-food%2F&psig=AOvVaw3gZafV2XphueVjgPVdhlhV&ust=1691416648342000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCIDa952YyIADFQAAAAAdAAAAABAL"
+        "image": "https://lh3.googleusercontent.com/0NJ0tSWXxVAev3eL_S2yVN7VpWOxmxAbCH5nEm6zcAU3UAzyHILoBNVrshv6Oo-gFMxZxPLfPl_InXUwQR3wOHJ8fQ1EAFRiAZVjeQuz0NI=s750"
       },
       {
         "id": 2,
@@ -1060,7 +1060,7 @@
         "price": 240,
         "restaurant_id": 2,
         "origin": "Kenyan",
-        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.malindikenya.net%2Fen%2Farticles%2Fterritory%2Fkenya-food%2Fchapati-swahili-style.html&psig=AOvVaw3gNqQl9JjVU4UEaGVJNFyB&ust=1691516887932000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCJDius2Ny4ADFQAAAAAdAAAAABAD"
+        "image": "https://mayuris-jikoni.com/wp-content/uploads/2022/11/kenyan-chapati-1-copy.jpg"
       },
       {
         "id": 103,
@@ -1442,12 +1442,12 @@
       },
       {
         "id": 145,
-        "food": "Nigerian Vegetable soup",
-        "description": "Nigerian Vegetable soup",
+        "food": "Suya – Nigerian food",
+        "description": "Suya – Nigerian food",
         "price": 280,
         "restaurant_id": 5,
         "origin": "Nigerian",
-        "image": "https://allnigerianfoods.com/wp-content/uploads/vegetable-soup-2.jpg"
+        "image": "https://allnigerianfoods.com/wp-content/uploads/suya.jpg"
       },
       {
         "id": 146,
