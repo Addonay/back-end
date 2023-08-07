@@ -83,63 +83,7 @@
             "description": "Authentic North Indian cuisine",
             "contact": "555-123-4567",
             "image": "https://tinyurl.com/yck6w8t7"
-        },  
-        { 
-            "id": 13,
-            "name": "Pizza Planet",
-            "description": "Gourmet pizzas baked in a wood-fired oven",
-            "contact": "555-987-6543",
-            "image": "https://tinyurl.com/5e847sth"
-        },  
-        { 
-            "id": 14,
-            "name": "Sushi Delight",
-            "description": "Fresh and delicious sushi rolls",
-            "contact": "555-111-2222",
-            "image": "https://tinyurl.com/3t996b7d"
-        },  
-        { 
-            "id": 15,
-            "name": "Burger Bistro",
-            "description": "Gourmet burgers with a variety of toppings",
-            "contact": "555-444-3333",
-            "image": "https://tinyurl.com/5er72kes"
-        },  
-        { 
-            "id": 16,
-            "name": "Seafood Cove",
-            "description": "Fresh seafood with a coastal vibe",
-            "contact": "555-777-2222",
-            "image": "https://tinyurl.com/4ntav2nk"
-        },  
-        { 
-            "id": 17,
-            "name": "Taco Time",
-            "description": "Authentic Mexican street tacos",
-            "contact": "555-222-1111",
-            "image": "https://tinyurl.com/yjahby9u"
-        },  
-        { 
-            "id": 18,
-            "name": "Pho Heaven",
-            "description": "Traditional Vietfoodse pho dishes",
-            "contact": "555-222-3333",
-            "image": "https://tinyurl.com/bdfasbba"
-        },  
-        { 
-            "id": 19,
-            "name": "Tandoori Nights",
-            "description": "Delicious tandoori specialties",
-            "contact": "555-444-5555",
-            "image": "https://tinyurl.com/yzv9kk3h"
-        },
-        { 
-            "id": 20,
-            "name": "The Snack Bar",
-            "description": "Quick bites and snacks on the go",
-            "contact": "554-112-3333",
-            "image": "https://images.pexels.com/photos/4262012/pexels-photo-4262012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
-        } 
+        }
          
     ],
   
